@@ -1,0 +1,2102 @@
+ {"contenido":[
+   {"tag":"saludo",
+     "patrones":[
+       "hola",
+       "un saludo",
+       "hello",
+       "¿Cómo estas?",
+       "Hola.¿Cómo estas?",
+       "Saludos",
+       "Hi",
+       "Hey"],
+
+     "respuestas":[
+       "Hola. ¿Qué tal, hay algo en lo que te pueda ayudar en relación al Covid-19?. ",
+       "¿Hola, cómo estas. Qué quieres saber sobre el COVID-19?.",
+       "Saludos gusto saber de ti. ¿En qué puedo ayudarte?.",
+       "Hola, estoy muy bién. ¿Qué quieres saber sobre el COVID-19??.",
+       "Hola. ¿Qué tal, hay algo en lo que te pueda ayudar en relación al Covid-19?. ",
+       "¿Cómo estas, qué quieres saber sobre el COVID-19?.",
+       "Un gusto saber de ti. ¿En qué puedo ayudarte?.",
+       "¿Qué quieres saber sobre el COVID-19?."]
+   },
+   {"tag":"sintomas",
+      "patrones":[
+        "sintomas comunes",
+        "sintomas del covid",
+        "sintomas del covid-19",
+        "sintomas del coronavirus",
+        "¿cuales son los sintomas más comunes del COVID-19?",
+        "sintomas comunes el coronavirus",
+        "¿cuales son los sintomas más comunes del coronavirus?"],
+
+      "respuestas":[
+        "Los sintomas mas comunes del Covid-19 son los siguientes:<br>• Fiebre.<br>• Tos.<br>• Dolor de cabeza.<br>• Dificultad respiratoria.<br>• Fatiga, dolores musculares y corporales.<br>• Pérdida del olfato o el gusto.<br>• Nauseas ó vomito, diarrea.<br>• Conjuntivitis.<br>• Erupciones cutáneas o cambios de color en los dedos de las manos o los pies.\n\nEn la mayoría de los casos estos síntomas suelen ser leves y aparecen de forma gradual. Algunas personas se infectan y son asintomáticos por no desarrollar ningún síntoma. Espero haber sido de ayuda, ¿Quieres saber algo más?."]
+    },
+    {"tag":"tiempoDeDcuuracion",
+        "patrones":[
+          "¿cuanto duran las sintomas del COVID-19?",
+          "¿cuanto duran las sintomas del COVID?",
+          "¿cuanto duran las sintomas del coronavirus?",
+          "¿cuanto tiempo duran los sintomas del coronavirus?",
+          "tiempo de duracion de los sintomas del COVID-19",
+          "tiempo de duracion de los sintomas del COVID",
+          "tiempo de duracion de los sintomas del coronavirus",
+          "duracion de los sintomas",
+          "tiempo de los sintomas",
+          "tiempo de los sintomas del covid",
+          "tiempo de los sintomas del covid-19",
+          "tiempo de los sintomas del coronavirus",
+          "duracion de los sintomas del covid",
+          "duracion de los sintomas del covid-19",
+          "duracion de los sintomas del coronavirus",
+          "duracion de los sintomas del covid",
+          "duracion de los sintomas del covid-19",
+          "duracion de los sintomas del coronavirus"
+        ],
+
+       "respuestas":[
+          "La duración de los síntomas depende de la severidad de cada caso:<br>• Cuando la enfermedad es leve, el tiempo medio desde el inicio de los síntomas hasta la recuperación es de 2 semanas.<br>• Cuando la enfermedad es grave o crítica el tiempo medio de recuperación se alarga entre 3-6 semanas.<br><br>¡Me alegra poder ayudate! ¿Quieres saber algo más?."
+       ]
+     },
+     {"tag":"acudirAlMedico",
+        "patrones":[
+          "¿cuando debo acudir al medico?",
+          "¿cuando ir al medico?",
+          "¿cuando buscar ayuda medica?",
+          "¿cuando buscar asisntencia medica?",
+          "¿cuando debo buscar atencion medica?",
+          "acudir al medico",
+          "¿cuando acudir al medico?",
+          "buscar asistencia medica",
+          "buscar atencion medica",
+          "ir al medico",
+          "¿cuando debo buscar ayuda medica?",
+          "¿cuando debo buscar asistencia medica?",
+          "¿cuando debo ir al medico?",
+          "¿cuando debo asistir al medico?",
+          "asistir al medico"
+        ],
+
+        "respuestas":[
+          "Si presenta los siguientes síntomas, busca asistencia médica de inmediato:<br>• Problemas para respirar.<br>• Dolor o presión en el pecho.<br>• Confusión o inhabilidad para despertar.<br>• Cianosis (Cara y labios azulados).<br><br>¡¡¡Debe acudir a un centro de atención médica de inmediato!!!"
+         ]
+      },
+      {"tag":"medidasDePrevencion",
+         "patrones":[
+           "¿Cuáles son las medidas de prevención?",
+           "¿Cómo puedo evitar el contagio?",
+           "¿Cómo me puedo proteger?",
+           "¿Cómo me puedo proteger del covid?",
+           "¿Cómo me puedo proteger del covid-19?",
+           "¿Cómo cuidarme del coronavirus?",
+           "¿Cómo cuidarme del covid-19?",
+           "¿Cómo cuidarme del covid?",
+           "¿Cómo cuidarse del coronavirus?",
+           "¿Cómo cuidarse del covid-19?",
+           "¿Cómo cuidarse del covid?",
+           "¿Cómo me puedo proteger del coronavirus?",
+           "¿Como me puedor cuidar del coronavirus?",
+           "¿Como me puedor cuidar del covid-19?",
+           "¿Como me puedor cuidar del covid?",
+           "¿Como puedo evitar contraer covid?",
+           "¿Como puedo evitar contraer covid-19?",
+           "¿Como puedo evitar contraer coronavirus?",
+           "¿Como lavarme las manos?",
+           "cuidarme del coronavirus",
+           "cuidarme del covid-19",
+           "cuidarme del covid",
+           "cuidarse del coronavirus",
+           "cuidarse del covid-19",
+           "cuidarse del covid"
+          ],
+
+          "respuestas":[
+            "Debe lavarse las manos a menudo con agua y jabón durante al menos 20 segundos, especialmente después de ir al baño; antes de comer; y después de sonarse la nariz, toser o estornudar.<br>• Evite tocarse los ojos, la nariz y la boca con las manos sin lavar.<br>• Al toser o estornudar, cubra su boca y la nariz con el codo flexionado o con un toallita desechable y use el cubre bocas.<br>• Al salir mantenga al menos 1,5 metros entre cada persona.<br>• Evite ir a sitios concurridos.<br>• Evite el contacto con personas que presenten síntomas.<br>Las medidas genéricas de protección son las siguientes:<br>• Evite a las personas que están enfermas.<br>• Si alguien en su casa está enfermo, tome precauciones para evitar la propagación del virus.<br>• Intente guardar una distancia mínima de 1.5 metro con cualquier otra persona. Siga las recomendaciones relacionadas con el distanciamiento físico y la a salida de su hogar.<br>• Lávese las manos con frecuencia. Intente no tocarse los ojos, la nariz y la boca, ya que las manos tocan muchas superficies que pueden estar contaminadas con el virus.<br>• Use un limpiador doméstico ordinario o una toallita para limpiar las superficies y los objetos que se tocan con frecuencia.<br>• Al toser o estornudar, cubra su boca y la nariz con el codo flexionado o con un pañuelo; tira el pañuelo inmediatamente y lávate las manos con un desinfectante de manos a base de alcohol, o con agua y jabón.<br>• No salude dando la mano, con besos o abrazos, puedes usar otros gestos como por ejemplo señales con la mano, inclinar la cabeza y/o cualquier otro que te parezca divertido para tu familia y amigos y amigas.<br><br>¡Un placer ayudarte!"
+          ]
+        },
+        {"tag":"mascarilla",
+           "patrones":[
+             "¿Cómo manipular la mascarrilla?",
+             "¿Cómo manipular el tababocas?",
+             "¿Cómo manipular el cubreboca?",
+             "¿Cómo manipular el cubrebocas?",
+             "¿Cómo emplear la mascarilla",
+             "¿Cómo emplear la mascarilla?",
+             "¿Cómo usar correctamente la mascarilla?",
+             "¿Cómo usar correctamente el tababocas?",
+             "¿Cómo usar correctamente el cubrebocas?",
+             "¿Cómo usar correctamente el cubreboca?",
+             "¿Cómo manipular el tapabocas?",
+             "¿Cómo emplear la tapabocas?",
+             "¿Cómo usar correctamente la mascarilla?",
+             "¿Cómo se usa la mascarrilla?",
+             "¿Cómo se usa el cubre bocas",
+             "¿Cómo se usa el tapabocas"
+           ],
+
+           "respuestas":[
+             "La OMS promueve el uso constante de mascarillas en espacios públicos como medida de prevención de la propagación y contagio de la enfermedad. El uso de mascarillas reduce significativamente el esparcimiento de las partículas de saliva y estornudo de varios metros a pocos centímetros.<br>• Recuerde lavarse las manos antes y después de retirarse la mascarilla.<br>• Retire la mascarilla por las alas laterales.<br>• Retire la mascarilla cuando vayas a ingerir alimentos o beber líquidos.<br>• No colocar la mascarilla en la frente o barbilla ya que la contamina.<br>• Guardar la mascarilla en una bolsa con cierre hermético si no la está utilizando para evitar su contaminación.<br><br>¡Me ha encantado compartir esta información contigo!"
+           ]
+        },
+        {"tag":"obligatorioUsarMascarilla",
+          "patrones":[
+            "¿En Venezuela, es obligatorio el uso de mascarillas?",
+            "¿En Venezuela, es obligatorio el uso de tababocas?",
+            "¿En Venezuela, es obligatorio el uso de tapaboca",
+            "¿En Venezuela, es obligatorio el uso de cubreboca?",
+            "¿En Venezuela, es obligatorio el uso de cubrebocas?",
+            "¿Es obligatorio usar mascariila?",
+            "¿Es obligatorio usar cubrebocas?",
+            "¿Es obligatorio usar cubreboca?",
+            "¿Es obligatorio usar tapabocas?",
+            "¿Es obligatorio usar tapaboca?",
+            "¿En Venezuela, es obligatorio el uso del cubrebocas?",
+            "¿En Venezuela, es obligatorio el uso del tababocas?",
+            "¿Es obligatorio el uso de tapabocas?",
+            "¿Es obligatorio usar cubrebocas?",
+            "¿Es obligatorio usar cubreboca?",
+            "¿Es obligatorio usar tapabocas?",
+            "¿Es obligatorio usar tapaboca?"
+            ],
+           "respuestas":[
+             "Si, como medida de prevención es obligatorio que las personas sanas en su vida cotidiana que requieran salir de sus hogares, hagan uso de la mascarillas para protegerse en lugares públicos, como el supermercado, donde es difícil evitar el contacto cercano con otros.<br><br>Esta medida está basada en datos que muestran que las personas pueden trasmitir el virus antes de darse cuenta que lo tienen. Usar mascarillas y guantes en público puede ayudar a reducir el contagio de las personas que no tienen síntomas.<br><br>Se recomiendan para el público en general las mascarillas de tela o que no sean de uso médico, para poder preservar las mascarillas y guantes quirúrgicos que deben usados por los proveedores de atención médica.<br><br>¡Me ha encantado compartir esta información contigo!"
+           ]
+        },
+        {"tag":"lavarManos",
+           "patrones":[
+             "¿Por qué debo lavarme las manos?",
+             "¿Por qué hay lavarse las manos?",
+             "lavarse las manos",
+             "lavados de mano",
+             "lavados de manos",
+             "lavados de mano",
+             "lavado de manos",
+             "lavado de mano",
+             "lavado de manos",
+             "¿Cómo debo lavarme las manos correctamente?",
+             "¿Como desinfecto mis manos?",
+             "¿Por qué es importante laverse las manos?",
+             "¿Por que es importabte lavarse las manos correctamente?",
+             "¿Por que es importante que se lave las manos?",
+             "¿Como desinfecto mis manos?",
+             "importancia del lavado de manos",
+             "importancia de lavarse las manos"
+           ],
+
+           "respuestas":[
+             "Según la OMS los pasos para un lavado adecuado de manos son los siguientes:<br>• Mojarse las manos.<br>• Aplicar jabón que cubra bien todas las superficies de las manos.<br>• Frotar las palmas entre sí.<br>• Frotarse la palma de una mano con el dorso de la otra y luego frotar las palmas entrelazando los dedos.<br>• Frotar el dorso de los dedos contra la palma de la mano opuesta y viceversa.<br>• Frotar los pulgares con movimientos de rotación y la punta de los dedos contra la palma de la mano opuesta.<br>• Enjuagarse con agua y secarse con una toalla de un solo uso.<br><br>Realizando el lavado frecuente con agua y jabón durante 20 segundos es primordial porque inhabilita el virus. Especialmente luego de toser, estornudar, ir al baño, tocar mascotas o superficies que estén en contacto con varias personas, antes de consumir alimentos o algo que implique tocar tu cara, ojos y boca. Si no tienes jabón puedes usar un gel antibacterial que contenga alcohol de más del 75%.<br><br>¡Me ha encantado compartir esta información contigo!"
+            ]
+        },
+        {"tag":"momentosParaLavarManoos",
+           "patrones":[
+             "¿Cuáles son los momentos clave para la higiene de manos en la vida diaria?",
+             "¿cuando debo lavarme las manos?",
+             "¿cuando lavarse las manos?",
+             "¿cuando es un buen momento para lavarnos las manos?",
+             "¿Cuando hacer el lavado de manos?",
+             "¿cuando lavarme las manos?",
+             "momento para lavarse las manos",
+             "momento para el lavado de manos",
+             "momento para lavarte las manos",
+             "momento para lavarme las manos",
+             "¿cuando lavar las manos?",
+             "¿cuando lavarme las manos?",
+             "¿cuando lavarte las manos?"
+           ],
+
+           "respuestas":[
+             "<br>• Cuando se cubre la tos o el estornudo con la mano.<br>• Después de cuidar a un paciente.<br>• Antes de comer.<br>• Antes, durante y después de preparar la comida.<br>• Después de ir al baño.<br>• Después de tocar animales.<br>• Después de tocar los botones del elevador y las manijas o o las perillas de las puertas.<br>• Al llegar a casa."
+           ]
+        },
+        {"tag":"reducirElRiesgo",
+           "patrones":[
+             "¿Puede el 75% de alcohol reducir el riesgo de infección del Covid-19?",
+             "¿Puede el 75% de alcohol reducir el riesgo de infección del Covid?",
+             "¿Puede el 75% de alcohol reducir el riesgo de infección del Coronavirus?",
+             "¿El alcohol dismunuye el riesgo de infectarse?",
+             "¿El alcohol dismunuye el riesgo de infectarse de covid?",
+             "¿El alcohol dismunuye el riesgo de infectarse de covid-19?",
+             "¿El alcohol dismunuye el riesgo de infectarse de coronavirus?",
+             "¿El alcohol sirve para prevenir el coronavirus?",
+             "¿El alcohol sirve para prevenir el covid-19?",
+             "¿El alcohol sirve para prevenir el covid",
+             "¿El elcohol previene el covid",
+             "¿El elcohol previene el covid-19?",
+             "¿El elcohol previene el coronavirus",
+             "¿El alcochol previene el contagio del virus?",
+             "¿El alcochol previene el contagio del virus del covid?",
+             "¿El alcochol previene el contagio del virus del covid-19?",
+             "¿El alcochol previene el contagio del virus del coronavirus?"
+           ],
+
+          "respuestas":[
+            "Si. Los coronavirus son sensibles a los disolventes y desinfectantes orgánicos. El 75% de alcohol, cloroformo, formaldehído, desinfectantes que contienen cloro, ácido peracético y rayos ultravioleta pueden inactivar el virus, por lo que limpiarse las manos y los teléfonos móviles con alcohol puede prevenir la infección por COVID-19.\n\n¡Me ha encantado compartir esta información contigo!"
+          ]
+        },
+        {"tag":"permanencia",
+            "patrones":[
+               "¿Cuánto tiempo permanece el COVID-19 en las superficies como agente de contagio?",
+               "¿Cuánto tiempo permanece el COVID en las superficies como agente de contagio?",
+               "¿Cuánto tiempo permanece el Coronavirus en las superficies como agente de contagio?",
+               "¿Cunato tiempo se mantiene vivo el COVID-19 en las superficies?",
+               "¿Cunato tiempo se mantiene vivo el COVID en las superficies?",
+               "¿Cunato tiempo se mantiene vivo el coronavirus en las superficies?",
+               "¿Cual es esl timepo de vida de virus en las superficies?",
+               "¿Cunato tiempo vive el coronavirus en las superficies?",
+               "¿Cunato tiempo vive el covid-19 en las superficies?",
+               "¿Cunato tiempo vive el covid en las superficies?",
+               "¿Cual es el tiempo de vida del COVID-19 en las superficies?",
+               "¿Cual es el tiempo de vida del COVID en las superficies?",
+               "¿Cual es el tiempo de vida del coronavirus en las superficies?",
+               "covid en las superficies",
+               "covid-19 en las superficies",
+               "coronavirus en las superficies"
+             ],
+
+             "respuestas":[
+                "El tiempo de vida del virus es mayor si la superficie es más porosa y húmeda. Ejm. 2-3 días en plástico, 4-5 días en papel, 4 días en vidrio, 1-8 horas en aluminio, 13 horas en acero, 4 días en madera, 8 horas en guantes quirúrgicos, 24 horas en cartón.\n\n¡Me ha encantado compartir esta información contigo!"
+             ]
+        },
+        {"tag":"incubacion",
+           "patrones":[
+             "¿Qué es el periodo de incubación?",
+             "¿Qué es el timepo de incubacion?",
+             "¿Que es la incubacion del virus?",
+             "¿Que es la incubacion?",
+             "incubacion",
+             "periodo de incubacion",
+             "¿Qué es el periodo de incubación del covid?",
+             "¿Qué es el periodo de incubación del covid-19?",
+             "¿Qué es el periodo de incubación del corovirus?",
+             "periodo de incubación del covid",
+             "periodo de incubación del covid-19",
+             "periodo de incubación del coronavirus",
+             "incubación del covid",
+             "incubación del covid-19",
+             "incubación del coronavirus"
+           ],
+
+           "respuestas":[
+             "El periodo de incubación es el intervalo de tiempo que transcurre entre ‎la infección y la aparición de los síntomas clínicos de la enfermedad.\n\n¡Me ha encantado compartir esta información contigo!"
+           ]
+        },
+        {"tag":"omicron",
+           "patrones":[
+             "¿Que es omicron?",
+             "¿Que es el omicron?",
+             "¿Que es la variante omicron",
+             "la variante omicron",
+             "omicron",
+             "el omicron",
+             "variante omicron"
+           ],
+
+           "respuestas":[
+             "Es una variante de coronavirus nueva y potencialmente más transmisible identificada por primera vez en Sudáfrica.\n\nSi bien los científicos dicen que hay motivos para estar preocupados por la variante, enfatizan que todavía hay muchas cosas que no sabemos, incluso si la variante es realmente más contagiosa, si causa una enfermedad más grave o cuáles pueden ser sus efectos sobre la eficacia de la vacuna.\n\n¡Me ha encantado compartir esta información contigo!"
+           ]
+        },
+        {"tag":"diferenciasDeOmicron",
+           "patrones":[
+              "¿Que hace diferente a la variable omicron?",
+              "¿Por que omicron es diferente a las otras variables?",
+              "Diferencias entre omicron y las otras variables",
+              "¿Cuales son las diferencias entre omicron y las otras variables?",
+              "diferencias de omicron",
+              "las diferencias del omicron",
+              "las deiferencias de omicron"
+           ],
+
+           "respuestas":[
+             "Si bien se esperan mutaciones, y nuevas variantes, del virus a medida que continúa propagándose, los expertos dicen que hay más motivos de preocupación con ómicron. << Está actuando de manera diferente, parece que es mucho más contagiosa que incluso la variante delta >>. dijo Jha.<br><br>Cuando los expertos observaron otras variantes, dijo Jha, por lo general tomaban varios meses para que estas fueran dominantes; en otras palabras, la variante más común del virus se propagaba en un área. << Este se ha vuelto dominante muy rápidamente en Sudáfrica en las regiones donde se ha encontrado. En cuestión de días a semanas en lugar de meses, la velocidad con la que ha despegado es realmente diferente a todo lo que hemos visto antes. >>, dijo Jha.<br><br>Los funcionarios de la OMS también dijeron en su declaración del viernes que la evidencia preliminar sugiere que ómicron también representa un mayor riesgo de reinfección comparación con otras variantes preocupantes. Es la versión más mutada del virus que hemos visto hasta la fecha. Esta variante conlleva algunos cambios que hemos visto anteriormente en otras variantes, pero nunca todos juntos en un virus. También tiene mutaciones novedosas, la variante tiene alrededor de 50 mutaciones en total.<br><br>¡Me ha encantado compartir esta información contigo!"
+           ]
+        },
+        {"tag":"coronavirusNIños",
+           "patrones":[
+              "¿El coronavirus (COVID-19) es peligroso para los niños?",
+              "¿El coronavirus COVID es peligroso para los niños?",
+              "¿El coronavirus es peligroso para los niños?",
+              "¿Es peligro el COVID-19 para los niños?",
+              "¿Es peligro el COVID para los niños?",
+              "¿Es peligro el coronavirus para los niños?",
+              "¿Es peligroso el coronavirus para los niños?",
+              "¿Es peligroso el covid-19 para los niños?",
+              "¿Es peligroso el covid para los niños?",
+              "¿Es peligroso el covid-19 en los niños?",
+              "¿Es peligroso el covid en los niños?",
+              "¿Es peligroso el coronavirus en los niños?",
+              "covid-19 peligroso para los niños",
+              "covid peligroso para los niños",
+              "coronavirus peligroso para los niños"
+           ],
+
+           "respuestas":[
+             "Los expertos aún están investigando y aprendiendo cosas sobre el coronavirus (COVID-19). Hay muchos menos casos del virus en niños. La mayoría de ellos contrajeron la infección de alguien con quien vivían o de un miembro de la familia. La infección causada por este virus usualmente parece ser más leve en niños que en adultos o personas mayores.\n\n¡Me ha encantado compartir esta información contigo!"
+           ]
+        },
+        {"tag":"informacionActualiza",
+           "patrones":[
+             "¿Dónde puedo encontrar información actualizada sobre el coronavirus (COVID-19)?",
+             "¿Dónde puedo encontrar información actualizada sobre covid?",
+             "¿Dónde puedo encontrar información sobre la pandemia?",
+             "¿Dónde puedo buscar información actualizada sobre el coronavirus (COVID-19)?",
+             "¿Dónde puedo buscar información actualizada sobre el covid?",
+             "¿Dónde puedo buscar información actualizada sobre el coronavirus?",
+             "¿Donde puedo encontrar informacion del covid-19?",
+             "¿Donde puedo encontrar informacion del coronavirus?",
+             "¿Donde puedo encontrar informacion sobre el covid-19?",
+             "¿Donde puedo encontrar informacion sobre el coronavirus?",
+             "informacion sobre el coronavirus",
+             "informacion sobre el covid-19",
+             "informacion sobre el covid",
+             "¿Como puedo encontrar informacion del coronavirus?",
+             "¿Como puedo encontrar informacion sobre el covid-19?",
+             "¿Como puedo encontrar informacion sobre el coronavirus?",
+             "información actualizada sobre el covid",
+             "información actualizada sobre el covid-19",
+             "información actualizada sobre el coronavirus",
+             "encontrar información actualizada sobre el coronavirus (COVID-19)",
+             "encontrar información actualizada sobre el coronavirus COVID",
+             "encontrar información actualizada sobre el coronavirus"
+           ],
+
+           "patrones":[
+             "Para encontrar información actualizada y fiable sobre el coronavirus, Consulte los canales informativos de la Organización Mundial de la Salud (OMS).<br><br>¡Me ha encantado compartir esta información contigo!"
+
+           ]
+        },
+        {"tag":"transmision",
+          "patrones":[
+            "¿Puede transmitirse a través del aire el virus causante de la COVID-19?",
+            "¿El covid se puede transmitir a traves del aire?",
+            "¿El corovirus se puede contagiar por medio del aire?",
+            "¿se puede contagiar el COVID-19 por el aire?",
+            "¿Se puede contagiar el coronavirus por el aire?"
+          ],
+
+        "respuestas":[
+          "Los estudios realizados hasta la fecha apuntan a que el virus causante de la COVID-19 se transmite principalmente por contacto con gotículas respiratorias, más que por el aire.\n\n¡Me ha encantado compartir esta información contigo!"
+        ]
+        },
+        {"tag":"gruposDeRiesgo",
+           "patrones":[
+              "¿Cuáles son los grupos de mayor riesgo al contagio?",
+              "¿Quienes corren mas riesgo de enfermaser de coronavirus?",
+              "¿Quienes corren mas riesgo de enfermaser de COVID-19?",
+              "¿Quienes son mas propensos a contagiase?",
+              "¿Quienes son mas propensos a enfermarse?",
+              "¿Quienes son mas propensos a contagiiaser de coronavirus?",
+              "¿Quienes son mas propensos a contagiarse de covid-19?",
+              "¿Cuales son los grupos mas vulnerables?",
+              "¿Quienes son vulnerables?",
+              "¿Cuales son los grupos mas vulnerables ante el coronavirus?",
+              "¿Quienes son vulnerables al covid-19?"
+           ],
+
+          "respuestas":[
+              "Los grupos más vulnerables son las personas mayores de 60 años, y/o las personas con enfermedades como:\n • Hipertensión Arterial.\n • Diabetes.\n • Obesidad.\n • Enfermedades Cardiacas.\n • Enfermedades Respiratorias.\n • Enfermedades Renales.\n • Cáncer.\n • Inmunodeficiencias.\n • Embarazo.\n • Personal sanitario.\n • Personas con acceso limitado a agua, saneamiento e higiene. Por tanto, es primordial seguir los consejos para evitar contagios, y continuar con el tratamiento para el control del asma. Deben seguir las recomendaciones generales, pero extremando la frecuencia y el uso de las mismas.\n • Personas en movilidad incluyendo el número de personas que regresan al país aquellos viviendo en condiciones de hacinamiento y en viviendas insalubres o en condición de calle y las que viven de la frontera en movimiento pendulares.\n\n • Personas en centros de detención, incluso en centros de detención preventiva donde dependen de familiares para su alimentación (los cuales no se pueden desplazar en la situación de cuarentena social).\n • Niños, niñas y adolescentes en riesgo (en entidades de atención y en situación de calle, jefes de hogar).\n • Comunidades indígenas en las zonas no urbanas con difícil acceso al sistema de salud y alimentos.\n • Personas con inseguridad alimentaria.\n • Personas con discapacidad.\n • Mujeres en situación de vulnerabilidad (cuidadoras de las personas enfermas y a cargo de trabajos de limpieza, jefas de hogar que pierden o reducen sus ingresos por la cuarentena).\n • Población en centros de larga estancia como hogares de cuidado, centros de atención del adulto mayor.\n • Familias con bajos ingresos y elevado gasto de bolsillo en salud para el acceso a medicamentos e insumos indispensables."
+          ]
+        },
+        {"tag":"propagacion",
+            "patrones":[
+             "¿Cómo se contagia el Coronavirus?",
+             "¿Cómo se contagia el covid-19?",
+             "¿Cómo se contagia el covid?",
+             "¿como se propaga el covid-19",
+             "¿como se propaga el covid?",
+             "¿como se propaga el coronavirus?",
+             "propagacion del covid-19",
+             "propagacion del covid",
+             "propagacion del coronavirus",
+             "contagio del covid-19",
+             "contagio del covid",
+             "contagio del coronavirus",
+             "¿Cómo se contagia el covid-19?",
+             "¿Cómo se contagia el covid?",
+             "¿Cómo se contagia el coronavirus?",
+             "¿como se pega el covid-19?",
+             "¿como se pega el covid?",
+             "¿como se pega el coronavirus?",
+             "¿como se transmite el COVID-19?",
+             "¿como se transmite el COVID?",
+             "¿Como se transmite el coronavirus?"
+           ],
+
+           "respuestas":[
+              "Todavía siguen estudios que analizan cómo se propaga el virus, su gravedad y consecuencias: Una persona puede contraer la COVID-19 principalmente por estar en contacto con otra persona que esté infectada por el virus.<br><br>se propaga de persona a persona, esto ocurre cuando una persona infectada estornuda, tose o habla, dispersando pequeñas gotas de agua por el aire. Esas gotitas pueden aterrizar en la nariz, la boca o los ojos de una persona que se encuentra cerca, o ella las pueden inspirar.<br><br>Es posible que una persona también contraiga la infección al tocar una superficie cubierta de gotas infectadas y luego se toque la nariz, la boca o los ojos. Por lo que sabemos hasta ahora, la transmisión es por contacto estrecho con las secreciones respiratorias que se generan con la tos o el estornudo de una persona enferma.<br><br>Su contagio depende de la cantidad del virus en las vías respiratorias. Estas secreciones infectarían a otra persona si entran en contacto con su nariz, sus ojos o su boca. Parece poco probable la transmisión por el aire a distancias mayores de uno o dos metros. Sin embargo, las personas sin síntomas pueden propagar el COVID-19."
+           ]
+
+        },
+        {"tag":"contactoPersonaSintomas",
+            "patrones":[
+              "¿Que debo hacer si estuve cerca de una persona que presenta los síntomas?",
+              "¿Que hacer si estuve con una personas con sintomas de covid-19",
+              "¿Que hacer si estuve ceca de una perona con sintomas de coronavirus?",
+              "¿Que hacer si estuve en contacto con una persona con sintomas de covid-19?",
+              "¿Que hacer si estuve con una persona con sintomas? ",
+              "¿Que hacer si estuve con una persona con sintomas de covid?",
+              "¿Que hacer si estuve con una persona con sintomas de covid.19?",
+              "¿Que hacer si estuve con una persona con sintomas de coronavirus? ",
+              "estuve cerca de una persona que presenta los síntomas del covid",
+              "estuve cerca de una persona que presenta los síntomas del covid-19",
+              "estuve cerca de una persona que presenta los síntomas del coronavirus",
+              "estuve cerca de una persona que presenta los síntomas de covid",
+              "estuve cerca de una persona que presenta los síntomas de covid-19",
+              "estuve cerca de una persona que presenta los síntomas de coronavirus"
+            ],
+
+            "respuestas":[
+               "Debe por prevención revisar su estado de salud y estar vigilante a los síntomas."
+            ]
+        },
+        {"tag":"asma",
+           "patrones":[
+             "asma",
+             "persona con asma",
+             "las personas con asma se enferman mas",
+             "las personas con asma son mas vulnerables al covid",
+             "las personas con asma son mas vulnerables al covid-19",
+             "las personas con asma son mas vulnerables al coronavirus",
+             "¿Las personas con asma son más vulnerables?",
+             "¿las personas con asmas tienen mas riesgo de enfermarse del virus?",
+             "¿las personas con asmas tienen mas riesgo de enfermarse del virus covid?",
+             "¿las personas con asmas tienen mas riesgo de enfermarse del virus covid-19?",
+             "¿las personas con asmas tienen mas riesgo de enfermarse del coronavirus?",
+             "¿Las personas con asma  son mas promesas a tener covid-19?",
+             "¿Las personas con asma corren mas riesgo de contagio de covid?",
+             "¿Las personas con asma corren mas riesgo de contagio de covid-19?",
+             "¿Las personas con asma corren mas riesgo de contagio de coronavirus?",
+             "¿Las personas con asma corren mas riesgo de contagio?"
+           ],
+
+           "respuestas":[
+             "Las personas asmáticas no tienen más riesgo de contagiarse del nuevo Coronavirus que el resto de la población, siempre y cuando el asma esté correctamente controlado. No obstante, las personas asmáticas sí que son más propensas a desarrollar complicaciones respiratorias si se contagian.\n\nPor tanto, es primordial seguir los consejos para evitar contagios, y continuar con el tratamiento para el control del asma. Deben seguir las recomendaciones generales, pero extremando la frecuencia y el uso de las mismas."
+           ]
+        },
+        {"tag":"contacto",
+           "patrones":[
+              "¿A donde puedo llamar si tengo sintomas de covid?",
+              "¿A donde puedo llamar si tengo sintomas de covid-19?",
+              "¿A donde puedo llamar si tengo sintomas de coronavirus?",
+              "¿Que hacer si tengo covid?",
+              "¿Que hacer si tengo covid-19?",
+              "¿Que hacer si tengo coronavirus?",
+              "tengo COVID-19",
+              "tengo COVID",
+              "tengo cotonavirus",
+              "A donde ir",
+              "A donde ir si tengo covid",
+              "A donde ir si tengo coronavirus"
+           ],
+
+           "respuestas":[
+             "Si tienes algún síntoma relacionado con la COVID-19 deberá ponerse en contacto inmediato con las líneas telefónicas:<br><br>• 0800COVID19 (080026844319)<br>• 0800VIGILAN (08008444526)<br><br>Son las líneas de contacto que se encuentran a disposición de la población para orientarte y recibir una pronta atención. Si no logras comunicarte, consulta inmediatamente a un centro de salud (en caso de estar embarazada debes informarlo inmediatamente. Te deben atender con prioridad para evitar cualquier complicación)."
+           ]
+        },
+        {"tag":"variasVeces",
+            "patrones":[
+              "¿Puedo contraer el coronavirus varias veces?",
+              "¿Puedo contraer el covid-19 varias veces?",
+              "¿Puedo contraer el COVID varias veces?",
+              "¿Puedo contraer coronavirus varias veces?",
+              "¿Puedo contraer covid-19 varias veces?",
+              "¿Puedo contraer COVID varias veces?",
+              "¿Me puedo enfermar varias veces de covid-19?",
+              "¿Me puedo enfermar varias veces de covid?",
+              "¿Me puedo enfermar varias veces de coronavirus?",
+              "¿cuantas veces me puedo enfermar de Covid?",
+              "¿cuantas veces me puedo enfermar de covid-19?",
+              "¿cuantas veces me puedo enfermar de coronavirus?",
+              "¿puedo enfermarme varias veces de covid?",
+              "¿puedo enfermarme varias veces de covid-19?",
+              "¿puedo enfermarme varias veces de coronavirus?"
+            ],
+
+            "respuestas":[
+                "Seguro que has escuchado que algunas personas han vuelto a enfermar nuevamente después de haberse recuperado de la COVID-19. Esto ha pasado, pero es importante estar tranquilo ya que se ha observado en muy pocos casos.<br><br>Se ha publicado un estudio de cuatro pacientes en los que se ha observado que el coronavirus podría permanecer en el cuerpo durante más de 2 semanas después de desaparecer los síntomas de la enfermedad."
+            ]
+        },
+        {"tag":"estadisticas",
+           "patrones":[
+             "¿Contagiados en Venezuela?",
+             "numero de contagiados en Venezuela",
+             "numero de contagiados de covid en Venezuela",
+             "numero de contagiados de covid-19 en Venezuela",
+             "numero de contagiados de coronavirus en Venezuela",
+             "cuantos contagiados hay en Venezuela",
+             "cuantos contagiados de covid hay en Venezuela",
+             "cuantos contagiados de coronavirus hay en Venezuela",
+             "estadisticas de contagio en Venezuela",
+             "estadisticas de contagio de covid en Venezuela",
+             "estadisticas de contagio de covid-19 en Venezuela",
+             "estadisticas de contagio de corovirus en Venezuela",
+             "¿cuanta gente hay emferma en Venezuela?",
+             "¿cuanta gente hay emferma de covid en Venezuela?",
+             "¿cuanta gente hay emferma de covid-19 en Venezuela?",
+             "¿cuanta gente hay emferma de covid en Venezuela?",
+             "cantidad de contagios en venezuela",
+             "cantidad de contagios de covid en venezuela",
+             "cantidad de contagios de covid-19 en venezuela",
+             "cantidad de contagios de coronavirus en venezuela",
+             "contagios en Venezuela",
+             "contagios de covid en Venezuela",
+             "contagios de covid-19 en Venezuela",
+             "contagios de coronavirus en Venezuela",
+             "contagios de covid-19 en Venezuela",
+             "contagios de coronavitus en Venezuela",
+             "Contagiados de covid en Venezuela",
+             "Contagiados de covid-19 en Venezuela",
+             "contagiados de coronavitus en Venezuela"
+           ],
+
+           "respuestas":[
+             "Puedes encontrar información actualizada a diario, respecto a los contagios en Venezuela del COVID-19 en el siguiente enlace:<br><br><strong>https://coronavirus-venezuela-esriven.hub.arcgis.com/<strong/>"
+           ]
+        },
+        {"tag":"medidasDeseguridad",
+           "patrones":[
+               "¿Qué hacer para mantenerse y mantener a los demás a salvo del COVID-19?",
+               "¿Qué hacer para mantenerse y mantener a los demás a salvo del COVID?",
+               "¿Qué hacer para mantenerse y mantener a los demás a salvo del coronavirus?",
+               "¿como mantenerme a salvo del coronavirus?",
+               "¿como mantenerme a salvo del COVID-19?",
+               "¿como mantenerme a salvo del COVID?",
+               "¿Como proteger a los demas del COVID?",
+               "¿Como proteger a los demas del COVID-19?",
+               "¿Como proteger a los demas del coronavirus?",
+               "¿como cuidar a los de mas del COVID-19?",
+               "¿como cuidar a los de mas del COVID?",
+               "¿como cuidar a los de mas del coronavirus?",
+               "¿como evitar el coronavirus?",
+               "¿como evitar el covid-19?",
+               "¿como evitar el covid?",
+               "¿como evitar el contagio del coronavirus?",
+               "¿como evitar el contagio del COVID?",
+               "¿como evitar el contagio del coronavirus?",
+               "evitar el contagio del covid",
+               "evitar el contagio del covid-19",
+               "evitar el contagio del coronavirus",
+               "evitar el covid",
+               "evitar el covid-19",
+               "evitar el coronavirus",
+               "¿como evitar el contagio del COVID-19?"
+           ],
+
+           "respuestas":[
+             "Guarde al menos 1 metro de distancia entre usted y otras personas, a fin de reducir su riesgo de infección cuando otros tosen, estornudan o hablan, mantenga una distancia aún mayor entre usted y otras personas en espacios interiores, cuanto mayor distancia mejor. Convierta el uso de la mascarilla en una parte normal de su interacción con otras personas."
+           ]
+        },
+        {"tag":"inmunidad",
+            "patrones":[
+              "¿Se puede desarrollar inmunidad al covid-19?",
+              "¿Se puede desarrollar inmunidad al covid?",
+              "¿Se puede desarrollar inmunidad al coronavirus?",
+              "inmunidad",
+              "inmunidad al covid",
+              "inmunidad al covid-19",
+              "inmunidad al coronavirus",
+              "¿los humanospueden ser inmunes al covid?",
+              "¿los humanospueden ser inmunes al covid-19?",
+              "¿los humanos pueden ser inmunes al coronavirus?",
+              "inmunidad al coronavirus",
+              "inmunidad al covid-19",
+              "inmunidad al covid",
+              "personas inmunes al covid?",
+              "personas inmunes al covid-19?",
+              "personas inmunes al coronavirus?",
+              "¿las personas pueden ser inmunes al covid?",
+              "¿las personas pueden ser inmunes al covid-19?",
+              "¿las personas pueden ser inmines al  coronavirus?"
+          ],
+
+          "respuestas":[
+              "Los datos científicos sobre el nivel y la duración de los anticuerpos inmunes protectores, producidos en pacientes después de la infección del nuevo coronavirus siguen siendo escasos, en general los anticuerpos protectores (inmunoglobulina G, IgG) contra un virus pueden producirse aproximadamente dos semanas después de una infección, y pueden existir durante varias semanas o muchos años, evitando la reinfección del mismo virus después Actualmente, se están realizando esfuerzos para evaluar personas que recientemente se recuperaron de la infección COVID-19 y se evalúa si portan anticuerpos protectores en la sangre."
+          ]
+        },
+        {"tag":"bloquear",
+            "patrones":[
+              "¿Puede una máscara bloquear tan pequeños coronavirus?",
+              "¿pueden los cubrebocas bloquear las pqueñas particulas de covid?",
+              "¿pueden los cubrebocas bloquear las pqueñas particulas de covid-19?",
+              "¿pueden los cubrebocas bloquear las pqueñas particulas de coronavirus?",
+              "¿pueden las mascarrillas bloquear las pqueñas particulas de covid?",
+              "¿pueden las mascarrillas bloquear las pqueñas particulas de covid-19?",
+              "¿pueden las mascarrillas bloquear las pqueñas particulas de coronavirus?",
+              "¿pueden los tapabocas bloquear las pqueñas particulas de covid?",
+              "¿pueden los tapabocas bloquear las pqueñas particulas de covid-19?",
+              "¿pueden los tapabocas bloquear las pqueñas particulas de coronavirus?",
+              "¿las mascarillas protegen del covid?",
+              "¿las mascarillas protegen del covid-19?",
+              "¿las mascarillas protegen del coronavirus?",
+              "¿los cubrebocas protegen del covid?",
+              "¿los cubrebocas protegen del covid-19?",
+              "¿los cubrebocas protegen del coronavirus?",
+              "¿los tapabocas protegen del covid?",
+              "¿los tapabocas protegen del covid-19?",
+              "¿los tapabocas protegen del coronavirus?",
+              "¿como me protegen las mascarillas contra el covid-19?",
+              "¿como me protegen los cubrebocas contra el covid-19?",
+              "¿como me protegen los tapabocas contra el covid-19?",
+              "¿como me protegen los tapabocas contra el coronavirus?",
+              "¿como me protegen los cubrebocas del covid-19?",
+              "¿como me protegen los tapabocas del covid-19?",
+              "¿como me protegen las mascarillas del covid-19?"
+            ],
+
+            "respuestas":[
+              "Las máscaras son efectivas, ya que el propósito de usar la máscara es bloquear el ‘portador’ por el cual se transmite el virus, en lugar de bloquear directamente los virus.\n\nLas rutas comunes para la transmisión de virus respiratorios incluyen el contacto cercano a corta distancia y la transmisión de aerosoles a larga distancia, los aerosoles con los que las personas generalmente entran en contacto se refieren a las gotas respiratorias de los pacientes. Usar una máscara adecuadamente puede bloquear eficazmente las gotitas respiratorias y, por lo tanto, evitar que el virus ingrese directamente al cuerpo.\n\nRecuerde que no es necesario usar un respirador KN95 o N95. Las máscaras quirúrgicas regulares pueden bloquear la entrada de la mayoría de las gotitas portadoras de virus al tracto respiratorio."
+            ]
+        },
+        {"tag":"niñxs",
+            "patrones":[
+              "los niños son inmunes al covid",
+              "los niños son inmunes al covid-19",
+              "los niños son inmunes al coronavirus",
+              "los niños no se enferman de covid",
+              "los niños no se enferman de covid-19",
+              "los niños no se enferman de coronavirus",
+              "¿Por qué los niños y niñas son más fuertes contra el coronavirus?",
+              "¿Por qué los niños y niñas son más fuertes contra el covid-19?",
+              "¿Por qué los niños y niñas son más fuertes contra el covid?",
+              "¿Por que los infantes son mas fuertes ante el coronavirus?",
+              "¿Por que los infantes son mas fuertes ante el covid-19?",
+              "¿Por que los infantes son mas fuertes ante el covid?",
+              "¿Por qué los niños y niñas son más fuertes contra el coronavirus?",
+              "¿Por qué los niños y niñas son más fuertes contra el covid-19?",
+              "¿Por qué los niños y niñas son más fuertes contra el covid?",
+              "¿Por que los infantes son mas fuertes ante el coronavirus?",
+              "¿Por qué los niños son más fuertes contra el coronavirus?",
+              "¿Por qué los niños son más fuertes contra el covid-19?",
+              "¿Por qué los niños son más fuertes contra el covid?",
+              "¿Por qué los niñas son más fuertes contra el coronavirus?",
+              "¿Por qué los niñas son más fuertes contra el covid-19?",
+              "¿Por qué los niñas son más fuertes contra el covid?"
+            ],
+
+            "respuestas":[
+              "Los especialistas atribuyeron esta cualidad a la inexperiencia del sistema inmune de los infantes, ya que se ha enfrentado a muy pocos patógenos y tiene mayor fortaleza que la respuesta inmunitaria adulta.\n\nUn nuevo estudio sugirió que el motivo por el que la población infantil es la menos afectada por la COVID-19 es gracias a la destreza de su sistema inmunológico, ya que al entrar en contacto con el virus SARS-CoV-2 desarrollan de manera inmediata anticuerpos suficientes, evitando que la enfermedad genere síntomas."
+            ]
+        },
+        {"tag":"virusZapatos",
+          "patrones":[
+            "¿Pueden los zapatos propagar el virus del COVID-19?",
+            "¿Pueden los zapatos propagar el virus del COVID?",
+            "¿Pueden los zapatos propagar el virus del coronavirus?",
+            "¿Los zapatos propagan el virus?",
+            "¿Los zapatos propagan el virus del covid?",
+            "¿Los zapatos propagan el virus del covid-19?",
+            "¿Los zapatos propagan el virus del coronavirus?",
+            "¿los zapatoa pueden transmitir el covid?",
+            "¿los zapatoa pueden transmitir el covid-19?",
+            "¿los zapatoa pueden transmitir el coronavirus?",
+            "¿los zapatos propagan el covid-19?",
+            "¿los zapatos propagan el covid?",
+            "¿los zapatos propagan el coronavirus?"
+          ],
+
+          "respuestas":[
+            "La probabilidad de que el virus de la COVID-19 se propague con los zapatos e infecte a personas es muy baja. Como medida de precaución, especialmente en hogares donde haya bebés y niños pequeños que gateen o jueguen en el suelo, considere dejar los zapatos a la entrada de su casa, esto ayudará a prevenir el contacto con la suciedad o cualquier desecho que pueda ser transportado en las suelas de los zapatos."
+          ]
+        },
+        {"tag":"tengoCovid",
+           "patrones":[
+             "¿Qué no debo hacer si tengo Coronavirus?",
+             "¿Qué no debo hacer si tengo covid-19?",
+             "¿Qué no debo hacer si tengo covid?",
+             "¿Qué hago si tengo covid?",
+             "¿Qué hago si tengo covid-19?",
+             "¿Qué hago si tengo coronavirus?",
+             "¿Qué hacer si tengo covid?",
+             "¿Qué hacer si tengo covid-19?",
+             "¿Qué hacer si tengo coronavirus?",
+             "¿Qué no hacer si tengo Coronavirus?",
+             "¿Qué no hacer si tengo covid-19?",
+             "¿Qué no hacer si tengo covid?",
+             "tengo covid",
+             "tengo covid-19",
+             "tengo coronavirus"
+           ],
+
+           "respuestas":[
+             "Es importante tomar todas las previsiones suficientes para que el virus no afecte más a tu salud, por lo que debes evitar lo siguiente:<br>• No tomes medicamentos que no sean prescritos por un médico especialista en el área.<br>• Evita fumar bajo cualquier circunstancia, ya que esto empeorará tus vías respiratorias.<br>• Utiliza solo un tapabocas.<br>• Evita estar expuesto con otras personas."
+           ]
+        },
+        {"tag":"sinVacuna",
+           "patrones":[
+             "¿Si nos han puesto la vacuna anti-SARS-CoV-2, ya podemos andar sin tapaboca?",
+             "¿Si nos han puesto la vacuna anti-coronavirus, ya podemos andar sin tapaboca?",
+             "¿Si nos han puesto la vacuna anti-covid-19, ya podemos andar sin tapaboca?",
+             "¿Si nos han puesto la vacuna anti-covid, ya podemos andar sin tapaboca?",
+             "¿si no esoty vacunada puedo andar sin mascarilla?",
+             "¿si no esoty vacunado puedo andar sin mascarilla?",
+             "¿si no tengo la vacuna puedo estar sin cubrebocas?",
+             "¿si no tengo la vacuna puedo estar sin tababocas?",
+             "¿si no tengo la vacuna puedo estar sin vacuando?",
+             "¿si no estoy vacunado puedo andar sin tapabocas?",
+             "¿si no estoy vacunado puedo andar sin cubrebocas?",
+             "¿si no estoy vacunado puedo andar sin mascarilla<?"
+           ],
+
+           "respuestas":[
+              "No, Lo primero es que la inmunización se da en dos etapas (dos dosis) y es necesario completar ambas para tener una inmunización más completa, lo segundo es que la producción de anticuerpos y respuesta celular tarda un tiempo en darse.\n\nAdemás, este tiempo de latencia varía entre poblaciones e incluso de forma individual. Por ello, no debemos considerarnos inmunes frente al virus antes de tiempo y exponer a otras personas al virus."
+           ]
+        },
+        {"tag":"vacunarnos",
+           "patrones":[
+             "¿Vacunarnos puede provocarnos COVID-19?",
+             "¿Vacunarnos puede provocarnos COVID?",
+             "¿Vacunarnos puede provocarnos coronavirus?",
+             "¿la vacuna puede provocar covid-19?",
+             "¿la vacuna puede provocar covid?",
+             "¿la vacuna puede provocar coronavirus?",
+             "¿la vacuna puede provocar el covid-19?",
+             "¿la vacuna puede provocar el covid?",
+             "¿la vacuna puede provocar el coronavirus?",
+             "¿las vacunas pueden provocar coronavirus?",
+             "¿las vacunas pueden provocar covid-19?",
+             "¿las vacunas pueden provocar covid?",
+             "¿las vacunas provocan el virus?",
+             "¿las vacunas provocan el virus SARS-CoV-2?",
+             "¿las vacunas provocan el virus covid?",
+             "¿las vacunas provocan el virus covid-19?",
+             "¿las vacunas provocan el coronavirus?"
+           ],
+
+           "respuestas":[
+             "Falso. Los efectos adversos de la vacunación son los habituales en estos tratamientos: fiebre, dolor articular o cansancio, son también algunos de los signos y síntomas inespecíficos de la COVID-19, obviamente en mucho menor grado. Además, las vacunas aprobadas solo utilizan ciertos genes o proteínas del virus para generar una respuesta inmunitaria, por lo tanto, no existe la posibilidad de que podamos infectarnos simplemente con la vacuna."
+           ]
+        },
+        {"tag":"coronavirus",
+           "patrones":[
+            "¿Qué es el Coronavirus?",
+            "¿Qué es el COVID-19?",
+            "¿Qué es el COVID",
+            "Coronavirus",
+            "Covid-19",
+            "covid",
+            "SARS-CoV-2?",
+            "¿Qué es el SARS-CoV-2?",
+            "¿Qué es el Coronavirus?",
+            "virus del Coronavirus",
+            "virus del Covid-19",
+            "virus del Covid",
+            "¿Qué es el virus del Coronavirus?",
+            "¿Qué es el virus del Covid-19?",
+            "¿Qué es el virus del Covid?"
+          ],
+
+          "respuestas":[
+             "Los coronavirus son una gran familia de virus que causan enfermedades respiratorias y que normalmente se originan en animales. Hay algunos que causan enfermedad en los humanos y otros que circulan entre animales.\n\nEn los humanos, causan infecciones respiratorias que pueden ir desde un simple resfriado común hasta enfermedades más graves, como el síndrome respiratorio agudo severo que está causando el COVID-19.\n\nRara vez los coronavirus de los animales pueden infectar a las personas y luego propagarse, como ha ocurrido con el COVID-19."
+          ]
+        },
+        {"tag":"nombre",
+           "patrones":[
+             "¿Por que se llama coronavirus?",
+             "¿por que el virus se llama coronavirus?",
+             "¿por que el virus tiene el nombre de coronavirus?"
+           ],
+
+           "respuestas":[
+             "Porque, reciben el nombre de las espigas en forma de corona en la superficie de la envoltura del virus. El responsable del nuevo brote se conoce como SARS-CoV-2 y es el causante de la enfermedad del coronavirus 2019."
+           ]
+        },
+        {"tag":"epidemia",
+            "patrones":[
+               "¿Qué es una epidemia?",
+               "¿Qué es epidemia?",
+               "¿Qué son las epidemias?",
+               "epidemia"
+            ],
+
+            "respuestas":[
+              "Es la forma de identificar un inusual incremento del número de casos de personas afectadas por una misma enfermedad, en una determinada localidad y en un momento específico."
+            ]
+        },
+        {"tag":"pandemia",
+           "patrones":[
+             "¿Qué es una Pandemia?",
+             "pandemia",
+             "la pandemia pandemia",
+             "¿Qué es la Pandemia?"
+           ],
+
+           "respuesta":[
+             "Se habla de pandemia, cuando una nueva enfermedad afecta a regiones geográficas muy extensas y se propaga a varios países de forma rápida e incontrolable, lo que a su vez representa un aumento del número de personas enfermas ante la imposibilidad de frenar el número de personas contagiadas en una sociedad."
+           ]
+        },
+        {"tag":"cuarentena",
+           "patrones":[
+             "¿Qué es la Cuarentena?",
+             "cuarentena",
+             "la cuarentena",
+             "¿Qué es una Cuarentena?"
+           ],
+
+           "respuestas":[
+             "La cuarentena es el mecanismo establecido para prevenir la transmisión, mediante una serie de medidas que se aplican para evitar el contacto entre varias personas de una misma sociedad, esto con la firme intención de frenar la propagación de un virus, tal como sucede en la actualidad."
+           ]
+        },
+        {"tag":"distanciamiento",
+           "patrones":[
+             "¿Qué es el distanciamiento físico?",
+             "distanciamiento fisico",
+             "distanciamiento"
+           ],
+
+           "respuestas":[
+             "El distanciamiento físico, significa dejar suficiente espacio entre las personas para evitar que se propaguen los gérmenes. Los expertos dicen que la cantidad adecuada de espacio entre dos personas debe ser de 1.5 y 2 metros. Recomendaciones:<br>• No salir a menos que sea necesario.<br>• Cerrar las escuelas, los restaurantes, las tiendas, los cines y los teatros, así como otros lugares donde se reúne la gente.<br>• No reunirse en persona con amigos.<br>• Trabajar desde casa, de ser posible.<br>• No usar el trasporte público, incluyendo los autobuses, el metro, taxis.<br><br>El distanciamiento social es una idea nueva para la mayoría de nosotros. Sin embargo, no es nada nuevo para los científicos, que estudian propagación de las enfermedades. Ellos saben que se trata de la gran diferencia que todos podemos marcar en lo que respecta a la propagación del coronavirus (COVID-19)."
+           ]
+        },
+        {"tag":"estadoDeAlarma",
+           "patrones":[
+           "¿Cuándo fué decretado el Estado de Alarma?",
+           "Estado de Alarma",
+           "Estado de Alarma en Venezuela",
+           "alarma",
+           "alarma en Venezuela",
+           "estado de alarma en Vnezuela",
+           "estado de alarma en Vnezuela por covid",
+           "estado de alarma en Vnezuela por covid-19",
+           "estado de alarma en Vnezuela por coronavirus",
+           "decreto de estado de alarma",
+           "estado de alarma en Vnezuela",
+           "estado de alarma por covid",
+           "estado de alarma covid-19",
+           "estado de alarma coronavirus",
+           "estado de alarma en Vnezuela",
+           "estado de alarma covid",
+           "estado de alarma covid-19",
+           "estado de alarma coronavirus",
+           "decreto de estado de alarma en Venezuela"
+         ],
+
+         "respuestas":[
+           "Al confirmarse los primeros casos de coronavirus en Venezuela, fue decretado el Estado de Alarma, según la Gaceta Oficial Extraordinaria publicada el 13 de marzo de 2020."
+         ]
+        },
+        {"tag":"acciones",
+           "patrones":[
+             "¿Cuáles fueron las primeras acciones, luego de declarar el Estado de Alarma?",
+             "¿Cuáles fueron las primeras acciones, luego de declarar el Estado de Alarma en Venezuela?",
+             "¿Cuáles fueron las primeras acciones, luego de declarar el Estado de Alarma en Venezuela por covid?",
+             "¿Cuáles fueron las primeras acciones, luego de declarar el Estado de Alarma en Venezuela por covid?-19",
+             "¿Cuáles fueron las primeras acciones, luego de declarar el Estado de Alarma en Venezuela por coronavirus?",
+             "despues del estado de alarma",
+             "despues del estado de alarma en venezuela",
+             "despues del estado de alarma en venezuela por covid",
+             "despues del estado de alarma en venezuela por covid-19",
+             "despues del estado de alarma en venezuela por coronavirus",
+             "primeras acciones contra el covid",
+             "primeras acciones contra el covid-19",
+             "primeras acciones contra el coronavirus",
+             "primeras acciones contra el covid en Venezuela",
+             "primeras acciones contra el covid-19 en Venezuela",
+             "primeras acciones contra el coronavirus en Venezuela",
+             "¿que paso despues del estado de alarma?",
+             "¿que paso despues del estado de alarma por covid?",
+             "¿que paso despues del estado de alarma por covid-19?",
+             "¿que paso despues del estado de alarma por coronavirus?",
+             "¿que paso despues del estado de alarma en Venezuela?",
+             "despues de declarar estado de alarma"
+           ],
+
+           "respuestas":[
+             "El gobierno nacional declaró al sistema sanitario en emergencia permanente y el Ministerio de Salud publicó una lista de hospitales centinelas. Se trata de 46 centros hospitalarios dispersos por la geografía venezolana que tratarán a los pacientes afectados por el virus que ha provocado una alerta sanitaria global"
+           ]
+        },
+        {"tag":"controla",
+           "patrones":[
+             "¿Qué entidad controla en Venezuela la evolución del COVID-19?",
+             "¿Qué entidad controla en Venezuela la evolución del covid?",
+             "¿Qué entidad controla en Venezuela la evolución del coronavirus?",
+             "¿Quien vigila el coronavirus en venezuela?",
+             "¿Quien vigila el covid-19 en venezuela?",
+             "¿Quien vigila el covid en venezuela?",
+             "¿Quien esta pendiente del coronavirus en Venezuela?",
+             "¿Quien esta pendiente del covid-19 en Venezuela?",
+             "¿Quien esta pendiente del covid en Venezuela?",
+             "vigilancia de la evolucion del conronavirus en venezuela",
+             "vigilancia de la evolucion del covid-19 en venezuela",
+             "vigilancia de la evolucion del covid en venezuela",
+             "¿Quien vigila en coronavirus en covid-19?",
+             "¿Quien esta pendiente del covid-19 en Venezuela?",
+             "vigilancia de la evolucion del covid-19 en venezuela"
+           ],
+
+           "respuestas":[
+             "“La Comisión Presidencial para la Prevención Atención y Control del Coronavirus” encargada de regir, impulsar y fortalecer estrategias que permitan mantener el aplanamiento de la curva de contagios, para mitigar la propagación de la Covid-19, implementando las medidas necesarias para salvaguardar la vida de los ciudadanos, siguiendo las recomendaciones de la Organización Mundial de la Salud (OMS) y la Organización Panamericana de la Salud (OPS)."
+           ]
+        },
+        {"tag":"frente",
+           "patrones":[
+             "¿Cómo le hemos hecho frente en Venezuela al Covid",
+             "¿Cómo le hemos hecho frente en Venezuela al Covid-19?",
+             "¿Cómo le hemos hecho frente en Venezuela al Coronavirus?",
+             "frente en Venezuela al Covid",
+             "frente en Venezuela al Covid-19",
+             "frente en Venezuela al Coronavirus",
+             "venezuela coronavirus",
+             "venezuela covid-19",
+             "venezuela covid"
+           ],
+
+           "respuestas":[
+             "Según se ha ido expandiendo la pandemia, las autoridades Venezolanas han ido endureciendo y flexibilizando las medidas a implementar."
+           ]
+        },
+        {"tag":"preventivas",
+           "patrones":[
+             "¿Cuáles han sido la medidas preventivas del Gobierno para contener la transmisión?",
+             "¿Cuáles han sido la medidas preventivas del Gobierno para contener la transmisión del covid?",
+             "¿Cuáles han sido la medidas preventivas del Gobierno para contener la transmisión del covid-19?",
+             "¿Cuáles han sido la medidas preventivas del Gobierno para contener la transmisión del coronavirus?",
+             "medidas preventivas del gobierno",
+             "medidas preventivas del gobierno conta el covid",
+             "medidas preventivas del gobierno conta el covid-19",
+             "medidas preventivas del gobierno conta el coronavirus",
+             "¿Que medidas ha tomado el gobierno?",
+             "¿Que medidas ha tomado el gobierno contra el covid?",
+             "¿Que medidas ha tomado el gobierno contra el covid-19?",
+             "¿Que medidas ha tomado el gobierno contra el corovirus?",
+             "Que medidas ha tomado el gobierno ante la pandemia?",
+             "Que medidas ha tomado el gobierno ante la pandemia del coronavirus?",
+             "Que medidas ha tomado el gobierno ante la pandemia del covid-19?"
+           ],
+
+           "respuestas":[
+             "Las medidas preventivas del Gobierno para contener la transmisión incluyen:<br>• Cuarentena social preventiva y voluntaria en el territorio nacional a partir del 17 de marzo, con cierre de entradas y salidas entre los estados, excepto para la cadena de distribución de alimentos, servicios sanitarios y de salud, seguridad policial y militar, transporte, electricidad, gas, combustible, desechos sólidos y telecomunicaciones.<br>• Suspensión de todas las actividades laborales con excepción de las actividades de servicio social y de necesidad apremiante (distribución de alimentos, servicios sanitarios de salud, de seguridad, telecomunicaciones y de transporte).<br>• Suspensión de actividades educativas presenciales, en todos los niveles desde el lunes 16 de marzo, dando continuidad las actividades mediante planificaciones pedagógicas activando diversas estrategias de educación a distancia.<br>• Suspensión de vuelos comerciales, privados y vuelos nacionales con excepción de vuelos humanitarios, de carga y correo. Exigiendo realizar cuarentena obligatoria a todo viajero proveniente de otros países que ingresén a Venezuela por cualquier vía de de comunicación.<br>• Cumplir con los estrictos protocolos de bioseguridad: Uso obligatorio del tapabocas en medios de transporte y en todos los espacios públicos, desde el 22 de marzo.<br>• Establecimiento de 46 hospitales y centros centinelas en todos los estados del país.Suspensión de eventos deportivos y prohibición de concentraciones en lugares públicos.<br>• Autorización a los restaurantes de realizar la venta de comida solo para llevar.<br>• Suspensión actividades en cines, discotecas y bares.<br>•Campaña comunicacional para hacer llegar información clave a la población sobre las medidas preventivas, evolución del virus y acciones necesarias de la población para prevenir la propagación de la COVID-19."
+           ]
+        },
+        {"tag":"estrategia",
+           "patrones":[
+             "¿Cuál ha sido la nueva estrategía ejecutada por las autoridades como medida preventiva para la flexibilizar prograsivamente la apertura de algunos los sectores?",
+             "estrategias"
+           ],
+
+           "respuestas ":[
+             "Desde desde el mes de Junio de 2.020, se ha implementado el método de Cuarentena social, nacional y colectiva, esta nueva estrategía, que es conocida como el sistema 7x7, en la que se alterna una semana de cuarentena radical vigilada y la siguiente semana de flexibilización, plan que ha permitido habilitar progresivamente los sectores importantes de la economía nacional, así como el aparato industrial con todos los motores productivos."
+           ]
+        },
+        {"tag":"contencion",
+           "patrones":[
+             "¿Que ha permitido la contención de la propagación en Venezuela?",
+             "¿Que ha permitido la contención de la propagación del covid en Venezuela?",
+             "¿Que ha permitido la contención de la propagación del covid-19 en Venezuela?",
+             "¿Que ha permitido la contención de la propagación del coronavirus en Venezuela?",
+             "contencion del covid",
+             "contencion del covid-19",
+             "contencion del coronavirus",
+             "contencion del covid en Venezuela",
+             "contencion del covid-19 en Venezuela",
+             "contencion del coronavirus en Venezuela"
+           ],
+
+           "respuestas":[
+             "Las medidas aplicadas por el Gobierno Bolivariano que junto al Sistema Público Nacional de Salud, equipos de vigilancia y control epidemiológico y el personal militar de la Fuerza Armada Nacional Bolivariana, han desplegado en todo el territorio nacional, los diferentes procesos de desinfección y pruebas de despistaje de COVID-19, siguiendo los los lineamientos de la Organización Mundial para la Salud (OMS)."
+           ]
+        },
+        {"tag":"funcionan",
+           "patrones":[
+             "¿Las estrategias y medidas implementadas en Venezuela han funcionado?",
+             "¿Las estrategias y medidas implementadas en Venezuela han funcionado ante el covid?",
+             "¿Las estrategias y medidas implementadas en Venezuela han funcionado ante el covid-19?",
+             "¿Las estrategias y medidas implementadas en Venezuela han funcionado ante el coronavirus?",
+             "las estrategias han funcionado en Venezuela",
+             "las estrategias han funcionado en Venezuela ante el covid",
+             "las estrategias han funcionado en Venezuela ante el covid-19",
+             "las estrategias han funcionado en Venezuela ante el coronavirus",
+             "lo que hace venezuela funciona",
+             "lo que hace venezuela funciona contra el covid",
+             "lo que hace venezuela funciona contra el covid-19",
+             "lo que hace venezuela funciona contra el coronavirus",
+             "¿Estan funcionando las estrategias de Venezuela contra el coronavirus?",
+             "¿Estan funcionando las estrategias de Venezuela contra el covid-19?",
+             "¿Estan funcionando las estrategias de Venezuela contra el covid?"
+           ],
+
+           "respuestas":[
+             "Si, efectivamente el trabajo preventivo que viene desarrollando el Gobierno de Venezuela, con sus políticas de protección al pueblo, dio un paso adelante en la aplicación de medidas de prevención, lo que le ha permitido aplanar la curva del virus a través de la cuarentena social colectiva y voluntaria además de las otras medidas implementadas que han sido respetadas por la mayoría de la población."
+           ]
+        },
+        {"tag":"pruebas",
+           "patrones":[
+             "Venezuela cuenta 7 laboratorios para procesar pruebas PCR y 30 para pruebas rápidas antigénicas",
+             "procesar PCR",
+             "PCR",
+             "prueba pcr de covid",
+             "prueba pcr de covid-19",
+             "prueba pcr de coronavirus",
+             "prueba pcr"
+           ],
+
+           "respuestas":[
+             "Sobre la capacidad del país para procesar pruebas diagnósticas de COVID-19, el ministro Carlos Alvarado detalló que actualmente hay 7 laboratorios instalados para procesar PCR y 30 laboratorios para procesamiento de pruebas rápidas antigénicas, estas últimas destinadas para casos asintomáticos."
+           ]
+        },
+        {"tag":"porcentaje",
+           "patrones":[
+             "¿Cuál es el porcentaje de casos de Coronavirus por zonas afectadas en Venezuela?",
+             "¿Cuál es el porcentaje de casos de Covid-19 por zonas afectadas en Venezuela?",
+             "¿Cuál es el porcentaje de casos de Covid por zonas afectadas en Venezuela?",
+             "porcentaje de covid en Venezuela",
+             "porcentaje de covid-19 en Venezuela",
+             "porcentaje de coronavirus en Venezuela",
+             "porcentaje de casos en Venezuela"
+           ],
+
+           "respuestas":[
+             "El 26% de los casos de coronavirus en Venezuela se encuentran en los estados fronterizos. Por otro lado, el Distrito Capital y el estado Miranda representan en conjunto el 36% de los casos y el 38% adicional de la COVID-19 identificados se encuentran distribuidos en el resto del país."
+           ]
+        },
+        {"tag":"ciencientificos",
+           "patrones":[
+             "Científicos venezolanos descubren molécula 100 % efectiva contra el SARS-CoV-2",
+             "Científicos venezolanos descubren molécula 100 % efectiva contra el coronavirus",
+             "Científicos venezolanos descubren molécula 100 % efectiva contra el covid-19",
+             "Científicos venezolanos descubren molécula 100 % efectiva contra el covid",
+             "cientificos en venezuela",
+             "investigadores cientificos en Venezuela",
+             "investigadores cientificos en Venezuela sobre el covid",
+             "investigadores cientificos en Venezuela sobre el covid-19",
+             "investigadores cientificos en Venezuela sobre el coronavirus",
+             "investigacion sobre el covid en Venezuela",
+             "investigacion sobre el covid-19 en Venezuela",
+             "investigacion sobre el coronavirus en Venezuela",
+             "investigacion sobre el covid",
+             "investigacion sobre el covid-19",
+             "investigacion sobre el coronavirus"
+           ],
+
+           "respuestas":[
+             "Investigadores venezolanos, identifican y aíslan molécula de planta medicinal que inhibe en 100% el SARS-CoV-2 en estudios preclínicos, al ser evaluado en células sanas, no mostró rastros de toxicidad, ni efectos colaterales. La molécula con actividad antiviral contra el SARS-CoV-2 descubierta por científicos del IVIC, corresponde a una primera línea de investigación y permite dar los primeros pasos para el desarrollo de un fármaco efectivo y seguro en el tratamiento de pacientes con COVID-19.<br><br>Venezuela ha iniciado ante la Organización Mundial de la Salud los protocolos para certificar la molécula DR-10, componente antiviral altamente efectivo contra el nuevo coronavirus, según estudios preclínicos.<br><br>El informe, avalado por IVIC, está a disposición de la OMS para su respectivo estudio y certificación."
+           ]
+        },
+        {"tag":"laboratorios",
+           "patrones":[
+               "Inauguran laboratorio de biología molecular en el Zulia",
+               "laboratorio nuevo",
+               "laboratorio de biología molecular",
+               "laboratorio de biología",
+               "laboratorios en zulia",
+               "laboratorio en el estado zulia",
+               "laboratorio de biologia molecular",
+               "molecular",
+               "biologia"
+             ],
+
+             "respuestas":[
+               "El Presidente de la República, Nicolás Maduro realizó un pase presidencial con el gobernador del estado Zulia, Omar Prieto Fernández, en el que se inauguró un laboratorio de biología molecular con la finalidad de reforzar los análisis de las pruebas PCR contra la COVID-19, favoreciendo a la región occidental."
+             ]
+        },
+        {"tag":"convenio",
+           "patrones":[
+             "Venezuela firma convenio con Rusia para adquirir 10 millones de dosis de la vacuna Sputnik V",
+             "Venezuela y Rusia",
+             "convenio entre rusia y Venezuela",
+             "convenio"
+           ],
+
+           "respuestas":[
+             "La vicepresidenta ejecutiva de la República, Delcy Rodríguez, anunció este martes 29 de diciembre de 2020 la firma de una alianza entre Venezuela y Rusia para adquirir la Sputnik V y vacunar en el país a diez millones de personas, a fin de conseguir su inmunización contra el SARS-CoV-2.\n\nEl acto del convenio fue efectuado en la sede de la Vicepresidencia (Caracas) y fue encabezado por la vicepresidenta Ejecutiva, Delcy Rodríguez; también, contó con la presencia del canciller venezolano, Jorge Arreaza; el ministro para la Salud, Carlos Alvarado; y el embajador ruso en Venezuela, Sergúei Melik-Bagdasarov. "
+           ]
+        },
+        {"tag":"plataformar",
+           "patrones":[
+              "Plataforma para la vigilancia del covid-19",
+              "Plataforma para la vigilancia del coronavirus",
+              "vigilancia del coronavirus",
+              "vigilancia del covid-19",
+              "vigilancia del covid"
+           ],
+
+           "respuestas":[
+             "Con la pandemia global del COVID-19, la “Plataforma Patria“ ha liderado la estrategia digital venezolana, siendo una poderosa herramienta de interacción entre los ciudadanos y el Estado, desde este sistema se realizó el lanzamiento de una encuesta de salud generada exclusivamente para el Coronavirus COVID-19."
+           ]
+        },
+        {"tag":"encuesta",
+           "patrones":[
+             "encuesta en patria",
+             "funcion de las encuestas sobre el covid-19 en la plataforma patria",
+             "funcion de las encuestas sobre el coronavirus en la plataforma patria",
+             "encuestas de patria sobrel el covid-19",
+             "encuestas de patria sobrel el covid",
+             "encuestan de patria sobre el coronavirus",
+             "proposito de la encuesta en patria",
+             "objetivo de la encuesta en patria",
+             "finalidad de la encuesta en patria",
+             "patria",
+             "encuesta en patria"
+           ],
+
+           "respuestas":[
+              "El propósito de la encuesta en obtener un despistaje oportuno de la enfermedad, además de fortalecer la vigilancia epidemiológica del coronavirus en el territorio nacional, a fin de rastrear la evolución del brote en el país, para responder de forma oportuna y perfeccionar las medidas de prevención y contención ante la COVID-19."
+           ]
+        },
+        {"tag":"resultadosEncuesta",
+           "patrones":[
+               "resultados de la encuesta en patria",
+               "resultados la encuesta de patria sobre el covid-19",
+               "resultados de las encuestas en patria",
+               "resultados la encuesta de patria sobre el coronavirus",
+               "resultado de las encuestas",
+               "encuesta en patria"
+             ],
+
+             "respuestas":[
+                "A comienzos del mes de Abril de 2020, de los 19.299.646 ciudadanos registrados en la plataforma patria 16.883.150 personas llenaron la encuesta del Coronavirus COVID-19. En el mes de Junio se realizó una actualización a la encuesta, obteniendo nuevamente una respuesta positiva de la ciudadania, lo que ha permitido hacer las visitas personalizadas, casa por casa y despistajes ampliados de la enfermedad y adicionalmente localizar las zonas con mayor número de contagio y riesgo."
+             ]
+        },
+        {"tag":"impacto",
+           "patrones":[
+               "impacto de los proyectos de investigacion sobre el covid-19",
+               "importancia de los proyectos de investigacion sobre el coronavirus",
+               "impacto de las investigaciones cientificas sobre el covid-19",
+               "importancia de las investigaciones cientificas sobre el coronavirus",
+               "impacto de la investigacion cinetifica sobre el covid-19",
+               "importancia de la investigacion cientificas sobre el coronavirus",
+               "investigacion cientifica"
+         ],
+
+           "respuestas":[
+               "Determinar el comportamiento epidemiológico de la pandemia en Venezuela, obtener la caracterización genética del virus que está circulando en nuestros pacientes. Los que permitirá la aplicación de todos los procesos técnicos para secuenciar el virus aislado de pacientes venezolanos, para estudiar estudiar  a línea filogenética del virus y posibles mutaciones presentes, y estas, a su vez, nos van a indicar un comportamiento infeccioso del virus para poder atacarlo.\n\nAvanzamos en todo el proceso de secuenciación del virus, que es un proceso permanente. Desarrollamos líneas de infección partiendo de células y aislados virales de pacientes que nos permiten evaluar potenciales fármacos con fines terapéuticos."
+           ]
+        },
+        {"tag":"iniciativas",
+            "patrones":[
+                "iniciativas de investigacion",
+                "iniciativas de las investigaciones cientificas",
+                "iniciativa de investigar",
+                "iniciativas",
+                "iniciativa",
+                "investigaciones cientificas"
+            ],
+
+            "respuestas":[
+              "En Venezuela se han propuesto más 140 iniciativas de investigación e innovación respecto a la COVID-19, Una de ellas ejemplo corresponde al desarrollo de terapias alternativas contra el SARS-CoV-2, mediante el estudio y el aislamiento de moléculas extraídas de plantas del Amazonas venezolano.<br><br>Los científicos venezolanos están haciendo sueros de los pacientes positivos y de los pacientes recuperados, y diseñando las estrategias para la elaboración de un Kit Elisa de serología que permita ampliar la mayor cobertura para el diagnóstico del coronavirus y adicionalmente se encuentran realizando el ejercicio de las curvas de investigación, de las curvas de propagación, que representa el desarrollo matemático del Covid-19.<br><br>Venezuela activó protocolos técnicos de investigación e innovación para combatir la propagación del SARS-CoV-2, como es la producción de un suero hiperinmune anti-COVID-19, de origen equino, así como la formulación de geles con nanopartículas de cobre y plata que disminuyen, en más de un 80 %, la actividad del virus en los espacios hospitalarios."
+            ]
+        },
+        {"tag":"laboratorioMovil",
+            "patrones":[
+               "¿Qué es el laboratorio móvil de bioseguridad?",
+               "laboratorio movil",
+               "laboratorio de bioseguridad",
+               "laboratorio de bioseguridad movil",
+               "movil"
+            ],
+
+            "respuestas":[
+              "Es un unidad adscrita al Instituto Nacional de Higiene Rafael Rangel del Ministerio del Poder Popular de la Salud, adquirida con la finalidad de acudir a los territorios para hacer diagnósticos en materia de bioseguridad, virus, bacterias, hongos, de enfermedades y agentes infecciosos que circulen en el país.\n\nEsta unidad móvil permite ir directamente al campo de trabajo, a las comunidades, con la tecnología y con las condiciones de bioseguridad, de seguridad biológica que garantizan la disminución del riesgo a científicos operarios. En la actualidad el laboratorio móvil de bioseguridad, fue instalado en la frontera del estado Táchira, para reforzar la prevención y el control de la COVID-19."
+            ]
+        },
+        {"tag":"redDeLaboratorio",
+           "patrones":[
+             "¿Qué es la Red de Laboratorios de biología molecular para diagnóstico del SARS-CoV-2?",
+             "¿Qué es la Red de Laboratorios de biología molecular para diagnóstico del covid-19?",
+             "¿Qué es la Red de Laboratorios de biología molecular para diagnóstico del covid",
+             "¿Qué es la Red de Laboratorios de biología molecular para diagnóstico del coronavirus",
+             "laboratorios de biologia",
+             "red de laboratorios de biologia",
+             "biologia molecular",
+             "red de laboratorio de biologia molecular",
+             "laboratorio de biologia molecular"
+           ],
+
+           "respuestas":[
+             "En aras de aumentar las capacidades técnicas para el diagnóstico del nuevo coronavirus el Mincyt, conformó la Red de Laboratorios a nivel nacional que se encarga del diagnóstico y garantiza la realización de pruebas PCR.\n\nIncorporando nuevos centros de Biología Molecular tales como el Centro Nacional de Genética Médica Dr. José Gregorio Hernández y el Laboratorio de Biología Molecular Félix Pifano, además de la< unidades activas del Instituto Nacional de Higiene; el Laboratorio móvil del INH, y el Laboratorio de Virología Molecular del Instituto Venezolano de Investigaciones Científicas (IVIC)."
+           ]
+        },
+        {"tag":"acuerdos",
+            "patrones":[
+              "acuerdos para la vacuna",
+              "acuerdos con Rusias",
+              "acuerdos entre Venezuela y Rusia",
+              "acuerdos entre Venezuela y Rusia para la vacuna",
+              "¿Qué acuerdo tiene Venezuela con relación a la vacuna Rusa Sputnik V?",
+              "sputnik",
+              "vacuna sputnik",
+              "rusia vacuna",
+              "rusia vacunas"
+            ],
+
+            "respuestas":[
+              "Venezuela estableció un acuerdo de transferencia tecnológica para el desarrollo de la vacuna rusa en el país, la vacuna denominada Sputnik V se trabajará desde la plataforma tecnológica de la Empresa Socialista para la Producción de Medicamentos Biológicos (Espromed BIO), ubicada en el Distrito Capital. El desarrollo de la vacuna rusa contra el coronavirus se hará en coordinación con el Consejo Científico Presidencial y el Comité Terapéutico Nacional. Este estudio estará acompañado de un comité de bioética y de farmacovigilancia."
+            ]
+        },
+        {"tag":"inmunoterapia",
+            "patrones":[
+              "¿Qué es la inmunoterapia pasiva en el tratamiento de el COVID-19?",
+              "¿Qué es la inmunoterapia pasiva en el tratamiento de el COVID?",
+              "¿Qué es la inmunoterapia pasiva en el tratamiento de el coronavirus?",
+              "inmunoterapia",
+              "tratamiento de inmunoterapia",
+              "tratamientos de inmunoterapia",
+              "inmunoterapia pasiva",
+              "tratamiento de inmunoterapia pasiva"
+            ],
+
+            "respuestas":[
+              "Es una alternativa científicamente fundamentada, en el uso de plasma de personas recuperadas de la COVID-19 para ayudar a aquellas personas que aún luchan contra esta enfermedad.\n\nEste protocolo, elaborado por Quimbiotec y el Banco Municipal de Sangre del Distrito Capital con el acompañamiento del Comité Terapéutico Nacional del Ministerio de Salud y del Consejo Científico Presidencial, forma parte de una alternativa que arrojado resultados positivos en la recuperación de pacientes afectados por COVID-19 de forma moderada y grave."
+            ]
+        },
+        {"tag":"plasma",
+           "patrones":[
+              "¿Qué debo hacer para donar plasma?",
+              "donar plasma",
+              "donacion de plasma",
+              "como donar plasma",
+              "donaciones de plasma",
+              "plasma"
+           ],
+
+           "respuestas":[
+             "Es una alternativa científicamente fundamentada, en el uso de plasma de personas recuperadas de la COVID-19 para ayudar a aquellas personas que aún luchan contra esta enfermedad. Este protocolo, elaborado por Quimbiotec y el Banco Municipal de Sangre del Distrito Capital con el acompañamiento del Comité Terapéutico Nacional del Ministerio de Salud y del Consejo Científico Presidencial, forma parte de una alternativa que arrojado resultados positivos en la recuperación de pacientes afectados por COVID-19 de forma moderada y grave."
+           ]
+        },
+        {"tag":"adelantos",
+           "patrones":[
+                "investigacion sobre el covid en Venezuela",
+                "investigacion sobre el covid-19 en Venezuela",
+                "investigacion sobre el coronavirus en Venezuela",
+                "investigaciones sobre el covid en Venezuela",
+                "investigaciones sobre el covid-19 en Venezuela",
+                "investigaciones sobre el coronavirus en Venezuela",
+                "adelanto del covid",
+                "adelanto del covid-19",
+                "adelanto del coronavirus",
+                "delanto de las investigaciones",
+                "delanto de las investigaciones sobre el covid",
+                "delanto de las investigaciones sobre el covid-19",
+                "delanto de las investigaciones sobre el coronavirus",
+                "adelanto de la investigacion"
+              ],
+
+              "respuestas":[
+                "Investigadores venezolanos han publicado más de 110 documentos científicos para la comprensión de la COVID-19 en lo que va de año. El 64 % de estos estudios científicos, hechos por venezolanos, se centra en la caracterización epidemiológica, el análisis virológico y otras áreas sobre el fenómeno clínico, que contribuyen al control de la actual pandemia; así como el entendimiento de los fenómenos sociales, puestos en el contexto de la crisis de la modernidad."
+              ]
+
+        },
+        {"tag":"registro",
+            "patrones":[
+              "¿Que es el Registro Nacional de Investigadores sobre el COVID-19?",
+              "¿Que es el Registro Nacional de Investigadores sobre el covid?",
+              "¿Que es el Registro Nacional de Investigadores sobre el coronavirus?",
+              "registro nacional de investigadores",
+              "registro nacional de investigadores sobre el covid",
+              "registro nacional de investigadores sobre el covid-19",
+              "registro nacional de investigadores sobre el coronavirus",
+              "registro de investigadores del covid",
+              "registro de investigadores del covid-19",
+              "registro de investigadores del coronavirus",
+              "investigadores",
+              "investigadores del covid",
+              "investigadores del covid-19",
+              "investigadores del coronavirus",
+              "registro de investigadores del covid-19",
+              "registro de investigadores del coronavirus"
+            ],
+
+             "respuestas":[
+               "Es un espacios de encuentro para la investigación dedicado a estudiar y combatir este virus mortal que afecta al mundo entero y desde el Observatorio Nacional de Ciencia, Tecnología e Innovación (Oncti) invitan a los investigadores, científicos, expertos, técnicos, hacedores de ciencia y tecnólogos a formar parte de este panel de expertos."
+             ]
+        },
+        {"tag":"registrarme",
+            "patrones":[
+              "¿Donde puedo registrarme como investigador del Coronavirus COVID-19?",
+              "registrarme como investigador",
+              "registrarme como investigador del covid",
+              "registrarme como investigador del covid-19",
+              "registrarme como investigador del coronavirus",
+              "investigador",
+              "investigadora"
+            ],
+
+            "respuestas":[
+              "En vista del gran trabajo hecho por científicos, expertos, técnicos, hacedores de ciencia y tecnólogos, el Gobierno de Venezuela abrió el Registro Nacional de Investigadores e Investigadoras sobre la COVID-19. Actualmente, más de 300 hombres y mujeres han ingresado al enlace https://pni.oncti.gob.ve/login, y agregado sus datos, así como la descripción de los proyectos de investigación sobre el nuevo coronavirus."
+            ]
+        },
+        {"tag":"impulso",
+           "patrones":[
+             "¿La pandemia global del Coronavirus ha impulsado el uso del Software Libre?",
+             "pandemia global",
+             "uso del Software Libre",
+             "Software Libre",
+             "tecnologias libres",
+             "tecnologia libre"
+           ],
+            "respuestas":[
+              "Con la pandemia global del COVID-19, los países y ciudadanos del mundo han comenzado a compartir software y tecnología que ha utilizado para salvar vidas sin ningún interés corporativo o comercial. Han compartido desde plataformas digitales para auto diagnósticos georeferenciados, software para predicción y análisis, hasta respiradores artificiales diseñados y construidos con hardware libre y estos proyectos al ser bajo Software Libre brindan mayor autonomía en el manejo de la información y al uso de las herramientas. Un grupo de científicos criollos crearon los primeros cuatro respiradores mecánicos digitales no invasivos para pacientes con cuadros respiratorios críticos."
+            ]
+        },
+        {"tag":"ivic",
+            "patrones":[
+              "¿Cuáles son los adelantos que ha desarrollado del Instituto Venezolano de Investigaciones Científicas (IVIC), en respuesta al Coronavirus COVID-19?",
+              "ivic",
+              "adelantos del ivic",
+              "adelantos cientificos",
+              "adelantos cientificos sobre el covid",
+              "adelantos cientificos sobre el covid-19",
+              "adelantos cientificos sobre el coronavirus",
+              "adelantos cientificos del evic",
+              "adelanto",
+              "adelantos"
+            ],
+
+             "respuestas":[
+               "El IVIC, está desarrollando respiradores artificiales, para ayudar a los pacientes que han contraído la COVID-19 y necesitan de dichos aparatos. Adicionalmente, en cooperación con la empresa privada nacional, se han producido mascarillas —con tecnología de impresión 3D— para satisfacer las necesidades del país, mediante procesos de innovación con la tecnología de punta que tienen a su alcance.<br><br>para lograr la protección ante el virus del personal que labora en los centros de salud públicos y en los organismos de seguridad. Asimismo, los Científicos del IVIC se encuentran brindando apoyo concreto a las distintas instancias del poder popular, en la fabricación de tapabocas artesanales, que luego de ser fabricados, gracias al conocimiento científico y la tecnología disponibles en el IVIC, son sometidos a un proceso de esterilización con los estándares de calidad e higiene indicados por la Comisión Presidencial para Prevención, Contención y Control de la COVID-19, antes de ser distribuidos y usados en los espacios de salud pública del país.<br><br>Adicionalmente, el grupo de Virología, del IVIC están haciendo un proceso de secuenciación de las variantes del virus que se encuentran expresadas en los pacientes venezolanos. El compromiso adquirido por los profesionales de la Ciencia del sector público se basa en el acompañamiento constante, al Consejo Científico Presidencial, brindando recomendaciones y apuntes de la investigación documentada mundial, así como la evaluación de políticas en el desarrollo de vacunas y tratamientos terapéuticos."
+             ]
+        },
+        {"tag":"respiradores",
+            "patrones":[
+                "Respiradores",
+                "respiradores mecanicos",
+                "respiracion artificial",
+                "prototipos de respiradores mecanicos",
+                "prototipos de respiradores artificiales",
+                "respiradores artificiales",
+                "¿Existen iniciativas de construcción de prototipos de respiradores mecánicos digitales en Venezuela?",
+                "prototipo de respirador artificial",
+                "prototipo de respirador mercanico",
+                "respiracion mecanica",
+                "artificial",
+                "prototipo de respirador",
+                "respirador",
+                "prototipos de respiradores"
+            ],
+
+            "respuestas":[
+              "Si, existen cuatro prototipos de respiradores artificiales fabricados en el país, por uno creado por la Compañía Anónima Venezolana de Industrias Militares (Cavim) y tres presentados por el Instituto Venezolano de Investigaciones Científicas (IVIC), Ministerio del poder popular para la Ciencia y Tecnología, estas innovaciones, son de bajo costo, hechas con tecnologías libres, significan un hito en la ciencia venezolana al servicio social."
+            ]
+        },
+        {"tag":"tratamientoMedico",
+            "patrones":[
+              "¿Cuál es el tratamiento médico recomendado para el coronavirus COVID-19 en Venezuela?",
+              "tratamiento medico recomendado",
+              "tratamiento medico",
+              "tratamiento para el covid",
+              "medicamentos para el covid",
+              "tratamiento para el covid-19",
+              "medicamentos para el covid-19",
+              "tratamiento para el coronavirus",
+              "medicamentos para el coronavirus",
+              "¿cual es el tratamiento medico para el covid?",
+              "¿cual es el tratamiento medico para el covid-19?",
+              "¿cual es el tratamiento medico para el coronavirus",
+              "¿cual es el tratamiento para el covid?",
+              "¿cual es el tratamiento  para el covid-19?",
+              "¿cual es el tratamiento  para el coronavirus"
+            ],
+             "respuestas":[
+               "La COVID-19 no tiene un tratamiento o medicamento específico, la recomendación principal es la prevención. Esa es la mejor manera de evitar contagiarse con el virus."
+             ]
+        },
+        {
+         "tag":"lineamientos",
+              "patrones":[
+                "¿Qué lineamientos deben seguir los investigadores en el desarrollo de sus estudios para combatir el nuevo coronavirus en Venezuela?",
+                "lineamientos para los investigadores",
+                "lineamientos para las investigadoras",
+                "lineamientos de investigacion",
+                "lineamientos para las investigacion",
+                "lineamientos para investigar",
+                "lineamientos para la investigaciones",
+                "lineamientos para el desarrollo de estudios",
+                "lineamientos para los investigadores del covid",
+                "lineamientos para las investigadoras del covid",
+                "lineamientos de investigacion sobre el covid",
+                "lineamientos para la investigacion del covid",
+                "lineamientos para investigar el covid",
+                "lineamientos para las investigaciones sobre el covid",
+                "lineamientos para el desarrollo de estudios sobre el covid",
+                "lineamientos para los investigadores del covid-19",
+                "lineamientos para las investigadoras del covid-19",
+                "lineamientos de investigacion sobre el covid-19",
+                "lineamientos para la investigacion del covid-19",
+                "lineamientos para investigar el covid-19",
+                "lineamientos para las investigaciones sobre el covid-19",
+                "lineamientos para el desarrollo de estudios sobre el covid-19",
+                "lineamientos para los investigadores del coronavirus",
+                "lineamientos para las investigadoras del Coronavirus",
+                "lineamientos de investigacion sobre el coronavirus",
+                "lineamientos para la investigacion del coronavirus",
+                "lineamientos para investigar el coronavirus",
+                "lineamientos para las investigaciones sobre el Coronavirus",
+                "lineamientos para el desarrollo de estudios sobre el coronavirus"
+              ],
+
+              "respuestas":[
+                "El Gobierno nacional expidió una serie de lineamientos para el desarrollo de investigaciones relacionadas con la COVID-19. En Gaceta Oficial número 41863, los ministerios Ministerio del Poder Popular para la Salud y el Ministerio del poder popular para la Ciencia y Tecnología establecen que los estudios e investigaciones deben hacerse bajo condiciones que garanticen la dignidad humana, y los resultados deben estar disponibles para su análisis y aplicación.<br><br>Las investigaciones científicas sobre COVID-19 que se realicen en Venezuela deben cumplir con principios éticos, y redundar en el fortalecimiento del Sistema Público Nacional de Salud. Además, uno de los requisitos ineludibles es tener aprobación de algún comité de ética para la investigación."
+              ]
+        },
+        {"tag":"lineasEstrategicas",
+            "patrones":[
+              "¿Cuáles son las líneas de estratégicas impulsadas por Venezuela para la generación de proyectos de investigación y la innovación relacionados al COVID-19?",
+              "líneas de estratégicas impulsadas por Venezuela para la generación de proyectos de investigación",
+              "líneas de estratégicas impulsadas por Venezuela para la innovación relacionados al COVID-19",
+              "proyectos de investigación",
+              "innovación relacionados al COVID-19",
+              "innovación relacionados al COVID",
+              "innovación relacionados al coronavirus",
+              "líneas de estratégicas impulsadas por Venezuela para la innovación relacionados al COVID",
+              "líneas de estratégicas impulsadas por Venezuela para la innovación relacionados al coronavirus",
+              "líneas de estratégicas impulsadas por Venezuela para la generación de proyectos de investigación sobre el covid",
+              "líneas de estratégicas impulsadas por Venezuela para la generación de proyectos de investigación sobre el covid-19",
+              "líneas de estratégicas impulsadas por Venezuela para la generación de proyectos de investigación sobre el coronavirus"
+            ],
+
+            "respuestas":[
+              "Venezuela abrió convocatoria para impulsar la investigación y la innovación sobre COVID-19, basando sus líneas estratégicas en la caracterización epidemiológica de la enfermedad en la población venezolana, métodos diagnósticos, profilaxis y tratamiento de la enfermedad, así como el impacto psicosocial y cultural."
+            ]
+        },
+        {"tag":"PruebasDiagnostico",
+            "patrones":[
+              "¿Cuáles son las pruebas que realizan realizan en Venezuela, para el diagnostico de un paciente con coronavirus?",
+              "pruebas en venezuela",
+              "tipos de pruebas en Venezuela",
+              "tipos de pruebas de covid en Venezuela",
+              "tipos de pruebas de covid-19 en Venezuela",
+              "tipos de pruebas de coronavirus en Venezuela",
+              "pruebas de covid en Venezuela",
+              "pruebas de covid-19 en Venezuela",
+              "pruebas de coronavirus en Venezuela",
+              "cuales son las pruebas de covid en Venezuela",
+              "cuales son las pruebas de covid-19 en Venezuela",
+              "cuales son las pruebas de coronavirus en Venezuela",
+              "cuales son los tipos de pruebas de covid en Venezuela",
+              "cuales son los tipos de pruebas de covid-19 en Venezuela",
+              "cuales son los tipos de pruebas de coronavirus en Venezuela",
+              "¿que pruebas hacen en Venezuela, para el diagnostico de un paciente con covid?",
+              "¿que pruebas hacen en Venezuela, para el diagnostico de un paciente con covid-19?",
+              "¿que pruebas hacen en Venezuela, para el diagnostico de un paciente con coronavirus?"
+            ],
+
+            "patrones":[
+              "Existen de dos tipos de pruebas para el diagnóstico de COVID-19: las pruebas rápidas y las pruebas PCR, cada uno de estos métodos diagnóstico tiene su momento, para detectar potenciales casos positivos del nuevo coronavirus."
+            ]
+        },
+        {"tag":"pruebasRapidas",
+            "patrones":[
+              "¿Qué son las pruebas rápidas para detectar al Covid?",
+              "¿Qué son las pruebas rápidas para detectar al Covid-19?",
+              "¿Qué son las pruebas rápidas para detectar al Coronavirus?",
+              "¿Qué son las pruebas rápidas para detectar el Covid?",
+              "¿Qué son las pruebas rápidas para detectar el Covid-19?",
+              "¿Qué son las pruebas rápidas para detectar el Coronavirus?",
+              "pruebas rápidas para detectar al Covid?",
+              "pruebas rápidas para detectar al Covid-19?",
+              "pruebas rápidas para detectar al Coronavirus?",
+              "pruebas rápidas para detectar el Covid?",
+              "pruebas rápidas para detectar el Covid-19?",
+              "pruebas rápidas para detectar el Coronavirus?",
+              "pruebas rápidas de Covid?",
+              "pruebas rápidas de Covid-19?",
+              "pruebas rápidas de Coronavirus?",
+              "pruebas rapaidas",
+              "prueba rapida",
+              "prueba rápida para detectar al Covid?",
+              "prueba rápida para detectar al Covid-19?",
+              "prueba rápida para detectar al Coronavirus?",
+              "prueba rápida para detectar el Covid?",
+              "prueba rápida para detectar el Covid-19?",
+              "prueba rápidas para detectar el Coronavirus?",
+              "prueba rápida de Covid?",
+              "prueba rápida de Covid-19?",
+              "prueba rápids de Coronavirus?"
+            ],
+
+            "respuestas":[
+               "Las pruebas rápidas o serológicas, que son indirectas y determinan anticuerpos. El examen de diagnóstico rápido son pruebas inmunológicas con capacidad de detectar, en una gota de sangre, la presencia de anticuerpos o la defensa del organismo humano ante la entrada del virus que produce infección y enfermedad.<br><br> Las pruebas de diagnóstico pueden ser utilizadas, desde el punto de vista clínico, para el diagnóstico de casos; o, desde el punto de vista epidemiológico, para conocer la dispersión de la infección en una comunidad determinada. Desde el punto de vista clínico, la prueba rápida no sustituye a la prueba molecular o PCR.<br><br>Las pruebas rápidas o de anticuerpos son y han sido muy útiles en la situación de Venezuela, en la que la mayoría de los pacientes son asintomáticos: no demuestran ningún malestar, ni desarrollan proceso crónico. Esto significa que la mayoría son positivos al SARS-CoV-2, pero no a la COVID-19."
+            ]
+        },
+
+        {"tag":"pruebaMolecular",
+            "patrones":[
+              "¿Que es la Prueba Molecular PCR?",
+              "¿Que es la Prueba Molecular PCR para dectectar el covid?",
+              "¿Que es la Prueba Molecular PCR para dectectar el covid-19?",
+              "¿Que es la Prueba Molecular PCR para dectectar el coronavirus?",
+              "¿Que es la Prueba Molecular?",
+              "¿Que es la Prueba de covid Molecular?",
+              "¿Que es la Prueba de covid-19 Molecular?",
+              "¿Que es la Prueba de coronavirus Molecular?",
+              "¿Que es la Prueba PCR?",
+              "¿que es una pcr",
+              "pcr",
+              "pruena molecular",
+              "prueba Molecular PCR",
+              "molecular",
+              "prueba pcr"
+
+            ],
+
+            "respuesta":[
+              "Es la prueba de reacción en cadena de la polimerasa, cuya tecnología permite amplificar o copiar, muchas veces, el genoma del virus. La prueba PCR es el único método que determina la carga viral. La PCR es el método confirmatorio que detecta y confirma la presencia del virus. Es una prueba directa. <br><br>Al detectar una muestra positiva por PCR, no hay duda de que el virus está presente en el paciente. La PCR delata la presencia del virus, pero desde su propio material genético. Eso significa que detecta su ARN; es decir: que esas partículas virales deben estar presentes. Haya sintomatología o no, te dice que está el genoma ahí presente."
+            ]
+        },
+        {"tag":"periodoVentana",
+            "patrones":[
+              "¿Qué son los períodos de ventana?",
+              "periodos de ventana",
+              "tiempo de ventana",
+              "ventana"
+            ],
+
+            "respuestas":[
+              "Estudios científicos han demostrado que una sola partícula viral SARS-CoV-2 puede hacer hasta 100 mil copias de sí misma, en apenas 24 horas. El período, entre el momento cuando se da el contacto con el virus y se inicia la infección y el momento el que se encuentran los anticuerpos en respuesta a dicha infección, se le conoce como «período de ventana».<br><br>Nuestro sistema inmune tarda entre dos y tres semanas en desarrollar una respuesta contra el nuevo coronavirus, con la expresión de anticuerpos. Una manera de acortar el período de ventana, para poder mejorar el diagnóstico, es con las pruebas de PCR, se puede acortar este lapso de exposición."
+            ]
+        },
+        {"tag":"solucionesCientificas",
+            "patrones":[
+              "¿Qué otras soluciones han aportado los científicos venezolanos?",
+              "soluciones que han aportado los científicos venezolanos",
+              "soluciones de los cientificos Venezolanos",
+              "soluciones cietificas Venezolanas",
+              "soluciones cietificas para el covid en Venezuela",
+              "soluciones cietificas para el covid-19 en Venezuela",
+              "soluciones cietificas para el coronavirus en Venezuela"
+
+            ],
+
+            "respuestas":[
+              "En el marco de la lucha contra el virus COVID-19, con el apoyo del FONACIT, se han desarrollado soluciones y geles sanitizantes y desinfectantes basados en nanopartículas de metales con conocida actividad antiviral y antibacterial. El uso de las soluciones generadas está previsto para ser utilizado en todo el sistema nacional de salud, en el transporte masivo, como el Metro de Caracas, el ferrocarril, y demás espacios donde se presenten aglomeraciones."
+            ]
+        },
+        {"tag":"funcionOzono",
+            "patrones":[
+              "¿Como funciona el prototipo de generador de ozono para la desinfección de áreas diseñado y construido en Venezuela?",
+              "¿Como funciona el generador de ozono construido en Venezuela?",
+              "¿Como es la funcion del generador de ozono construido en Venezuela",
+              "funcion del generador de ozono Venezolano",
+              "funcion del generadorl de ozono",
+              "funcion del prototipo",
+              "funcion del prototivo del generador de ozono"
+            ],
+
+            "respuestas":[
+              "El prototipo generador de ozono, presentado para la desinfección de áreas, con el fin de frenar la propagación del nuevo coronavirus, es invento que toma el oxígeno presente en el aire del ambiente y, con una descarga eléctrica de 3 mil voltios, destruye las moléculas, quedando oxígeno libre; luego se recombinan y forman una molécula de ozono, compuesta por tres átomos de oxígeno.<br><br>Esta innovación no deja residuos tóxicos, ya que el ozono se vuelve a convertir en oxígeno por lo que es amigable con el ambiente. Produce una gran cantidad de ozono, suficiente para un cuarto de hotel o un cuarto de hospital de 4×4 metros y sirve para matar el 99 % del SARS-CoV-2, en 20 minutos. Ozono, con este equipo, no se necesita agua ni jabón, solo electricidad, y la esterilización es completa. Se utiliza para esterilizar ambulancias, hoteles, hospitales, clínicas, lugares de trabajo, supermercados, locales comerciales y muchos espacios más."
+            ]
+        },
+        {"tag":"protocolosInvestigacion",
+            "patrones":[
+                "¿Cuáles son los nuevos protocolos técnicos de investigación e innovación adelantados combatir la propagación del SARS-CoV-2 en el país?",
+                "protocolas de investigacion",
+                "nuevos protocolos de investigacion",
+                "nuevos protocolos de investigacion sobre el covid",
+                "nuevos protocolos de investigacion sobre el covid-19",
+                "nuevos protocolos de investigacion sobre el coronavirus",
+                "protocolo de innovacion",
+                "protocolo de investigacion del covid",
+                "protocolo de investigacion del covid-19",
+                "protocolos de investigacion del coronavirus",
+                "protocolos de investigacion del covid",
+                "protocolos de investigacion del covid-19",
+                "protocolos de investigacion del coronavirus",
+                "protocolos de inovacion en la investigacion del covid",
+                "protocolos de inovacion en la investigacion del covid-19",
+                "protocolos de inovacion en la investigacion del coronavirus"
+            ],
+
+            "respuestas":[
+              "Científicos venezolanos han adelantado estudios relacionados:<br>Científicos venezolanos han adelantado estudios relacionados:<br>• Métodos de cultivos celulares para aislamiento del SARS-CoV-2, evaluación de fármacos, ensayos de neutralización y visualización por microscopía electrónica.<br>• Al perfil inmunológico celular en la sangre de pacientes criollos con SARS-CoV-2, como responde el sistema inmune ante el agente infeccioso, y eso servirá para evaluar cuáles son los tratamientos más apropiados para pacientes positivos con coronavirus.<br>• Al desarrollo tecnológico de suero hiperinmune anti-COVID-19,de origen equino."
+            ]
+        },
+        {"tag":"videoConferencias",
+            "patrones":[
+                "¿Que aplicación es recomendada para realizar videoconferencias en este tiempo de cuarentena?",
+                "videoConferencias",
+                "videoconferencias",
+                "videoconferencia",
+                "aplicaciones de videoconferencias",
+                "aplicacion de videoconferencia",
+                "videoconferencias en pandemia",
+                "videoconferencias en cuarentena"
+            ],
+
+            "respuestas":[
+              "La comunicación virtual por videoconferencia, se ha vuelto una necesidad para las organizaciones en estos tiempos de cuarentena por el COVID-19 y el Centro Nacional de Tecnologías de Información (CNTI), adscrito al Ministerio del Poder Popular para Ciencia y Tecnología (Mincyt) recomienda usar Jitsi Meet para sus videoconferencias, que es una herramienta basada en software libre, que coloca su código a disposición de quienes deseen conocerlo para adaptarlo a sus necesidades."
+            ]
+        },
+        {"tag":"importanciDeLasPruebas",
+            "patrones":[
+              "¿Por qué es importante aplicar pruebas rápidas para detectar la presencia del SARS-CoV-2?",
+              "importancia de las pruebas rapidas",
+              "importancia de las pruebas rapidas para detectar el covid",
+              "importancia de las pruebas rapidas para detectar el covid-19",
+              "importancia de las pruebas rapidas para detectar el coronavirus",
+              "importancia de las pruebas rapidas para detectar el SARS-CoV-2",
+              "¿cual es la importancia de las pruebas rapidas para detectar el covid?",
+              "¿cual es la importancia de las pruebas rapidas para detectar el covid-19?",
+              "¿cual es la importancia de las pruebas rapidas para detectar el coronavirus?",
+              "¿por que es importante la aplicacion de las pruebas rapidas para detectar el covid?",
+              "¿por que es importante la aplicacion de las pruebas rapidas para detectar el covid-19?",
+              "¿por que es importante la aplicacion de las pruebas rapidas para detectar el coronavirus?"
+            ],
+
+            "respuestas":[
+              "Una forma de confirmar la presencia del SARS-CoV-2, es detectar los anticuerpos que la persona genera contra el virus, este diagnóstico se hace con una prueba rápida que no detecta el virus, sino que pone de manifiesto la respuesta inmune frente a él, las pruebas de detección de anticuerpos suelen distinguir el tipo de inmunoglobulina: si marca IgM, es indicativo de una infección activa o reciente; si determina IgG, es indicativo de una respuesta secundaria o pasada.<br><br>Estos test de PCR son muy específicos y sensibles, suelen tardar en realizarse unas cuantas horas, requieren un equipamiento y un personal técnico especializado, pueden dar resultado positivo en personas antes de que manifiesten síntomas, pero que ya tengan el virus. A lo largo de la enfermedad pueden permitir hacer un seguimiento de cómo va la infección, porque cuando la persona ya se ha curado y no tiene el virus activo, en principio debería dar negativo, no se puede descartar que pacientes convalecientes “sin síntomas” puedan dar positivo en la RT-PCR y seguir siendo portadores del virus.<br><br><strong>Detectar las proteínas del virus: Test antigénicos:</strong><br><br>Otra forma de confirmar la presencia del virus es detectar sus proteínas o antígenos, hay distintas técnicas o soportes sobre los que hacen este tipo de test, pero en definitiva más o menos todos tienen el mismo fundamento, sobre un soporte se fijan anticuerpos específicos que reaccionarán contra alguna proteína del virus, en este caso es contra las proteínas de la superficie de la envoltura (proteína S), las que se proyectan hacia el exterior y forman esas espículas que dan el nombre a este tipo de virus, corona-virus, si en la muestra (las mismas que para la RT-PCR) hay partículas virales, éstas quedarán fijadas al anticuerpos es como si el virus hubiera sido capturado por el anticuerpo.<br><br><strong>Detectar anticuerpos frente al virus: Test serológicos</strong><br><br>La tercera aproximación consiste en detectar la respuesta inmune frente al virus, los anticuerpos. Es una detección indirecta, no detectamos el virus sino que ponemos de manifiesto la respuesta inmune frente a él. En este caso la muestra que vamos a emplear es una gota de sangre, porque vamos a detectar los anticuerpos que has generado contra el virus.<br><br>De nuevo, hay distintas técnicas o soportes sobre los que hacer este tipo de test, pero más o menos todos tienen el mismo fundamento. En este caso, sobre el soporte se fijan proteínas del virus, normalmente las proteínas más expuestas hacia el exterior, como la proteína S de la envoltura, esto es así porque nuestro sistema inmune lo primero que reconoce es lo que está más hacia el exterior del virus, como con este test queremos detectar los anticuerpos que producimos, la muestra será una simple gota de sangre, si en la muestra hay anticuerpos contra el virus, se pegarán y quedarán fijados a las proteínas del virus.<br><br>Para detectar la presencia del virus (detección directa) podemos emplear dos tipos de test: la PCR que detecta el genoma del virus o los test inmunológicos que detectan las proteínas (antígenos) del virus, el tercer tipo de test es el que detecta los anticuerpos que produces como respuesta a la infección, son los test serológicos de detección indirecta del virus, aunque hay varias modalidades de cada uno de estos tipos de test, vamos a explicar brevemente cómo funcionan."
+            ]
+        },
+        {"tag":"vacunasPrueba",
+            "patrones":[
+              "Vacunas en prueba contra el Covid-19",
+              "Vacunas en prueba contra el Covid",
+              "Vacunas en prueba contra el coronavirus",
+              "vacunas de prueba",
+              "Vacunas en prueba contra el Covid-19 rusa",
+              "Vacunas en prueba contra el Covid rusa",
+              "Vacunas en prueba contra el coronavirus rusa",
+              "vacuna de prueba",
+              "vacuna de prueba rusa",
+              "vacuna de prueba contra el covid",
+              "vacuna de prueba contra el covid-19",
+              "vacuna de prueba contra el coronavirus",
+              "vacunas de prueba contra el covid",
+              "vacunas de prueba contra el covid-19",
+              "vacunas de prueba contra el coronavirus",
+              "vacunas rusas"
+            ],
+
+            "respuestas":[
+              "La eficacia de la vacuna Sputnik V, fue del 91,4% según el segundo análisis provisional de los datos, 28 días después de que los voluntarios recibieran la primera inmunización (y 7 días después de recibir la segunda inmunización), el cálculo de la eficacia se realizó en base al análisis de los datos de 18.794 voluntarios, que recibieron la primera y segunda inyección de la vacuna Sputnik V o un placebo, en el segundo punto de control: se confirmaron 39 casos de voluntarios enfermos, de acuerdo con el protocolo de los ensayos clínicos. Los datos preliminares sobre voluntarios 42 días después de la primera inyección (lo que corresponde a 21 días después de la segunda inyección) muestran una eficacia de la vacuna superior al 95%."
+            ]
+        },
+        {"tag":"vacunasNiños",
+            "patrones":[
+               "Aprobadas tres anticovid para niños",
+               "anticovid para niños",
+               "vacunas para niños",
+               "vacunas para los niños niños",
+               "vacunas contra el covid para niños",
+               "vacunas contra el covid-19 para niños",
+               "vacunas contra el coronavirus para niños",
+               "vacunas en niños",
+               "hay vacunas para niños",
+               "niños y vacuna",
+               "niños y las vacunas"
+            ],
+
+            "respuestas":[
+              "Alexandra Hernández, directora general de Regulación Sanitaria del ente, explicó que en Venezuela se aprobaron para niños y adolescentes tres vacunas: la Sinopharm para un grupo etario de 12 años en adelante, recientemente la Abdala para niños mayores de 2 años y Soberana II y Soberana Plus para niños mayores de 3 años.<br><br>Desde el pasado 8 de noviembre comenzó en el país la vacunación a niños mayores de 2 años de edad con las vacunas Sinopharm, Abdala, Soberana 02 y Soberana Plus, como parte de la nueva etapa de inmunización que tiene como objetivo llegar a 90% de población vacunada para diciembre, tal como lo ha indicado el Gobierno nacional, Estos fármacos anticovid han sido evaluados por los expertos del Instituto Nacional de Higiene Rafael Rangel (Inhrr), cumpliendo con los protocolos sanitarios que se aplican en el país."
+            ]
+        },
+        {"tag":"beneficiosNiños",
+            "patrones":[
+              "La OMS insta a los países a considerar los beneficios de vacunar a los niños contra el covid-19",
+              "beneficios de vacunar niños",
+              "beneficios de vacunar niños contra el covid",
+              "beneficios de vacunar niños contra el covid-19",
+              "beneficios de vacunar niños contra el corovirus",
+              "beneficios de la vacuna en los niños",
+              "beneficios de la vacuna contra el covid para en niños",
+              "beneficios de la vacuna contra el covid-19 para en niños",
+              "beneficios de la vacuna contra el corovirus para en niños",
+              "beneficios niños",
+              "beneficios de la vacuna para los niños",
+              "beneficios de la vacuna contra el covid para los niños",
+              "beneficios de la vacuna contra el covid-19 para los niños",
+              "beneficios de la vacuna contra el corovirus para los niños",
+              "la importancia de vacunar a los niños",
+              "¿se pueden vacunar a los niños?",
+              "¿se pueden vacunar a los niños contra el covid?",
+              "¿se pueden vacunar a los niños contra el covid-19?",
+              "¿se pueden vacunar a los niños contra el coronavirus?",
+              "la importancia de vacunar a los niños contra el covid",
+              "la importancia de vacunar a los niños contra el covid-19",
+              "la importancia de vacunar a los niños contra el coronavirus"
+            ],
+
+            "respuestas":[
+              "En una nueva declaración provisional, la Organización Mundial de la Salud (OMS) pidió el miércoles a los países que consideren los beneficios de vacunar a niños y adolescentes contra el covid-19, pero que den prioridad al intercambio de vacunas a nivel mundial antes de proceder a vacunar a los menores.<br><br>La OMS señala en su nueva declaración provisional que la vacunación de niños y adolescentes tiene beneficios que van más allá de los beneficios directos para la salud. Esto incluye que las vacunas pueden ayudar a mantener las escuelas abiertas de forma segura. Además de disminuir la transmisión del coronavirus en otros grupos de edad, incluidos los adultos mayores."
+            ]
+        },
+        {"tag":"amazonas",
+            "patrones":[
+              "centro centinela en Amazonas",
+              "centros centinelas en Amazonas",
+              "centro centinela del estado Amazonas",
+              "centros centinelas del estado Amazonas",
+              "Amazonas"
+            ],
+
+            "respuestas":[
+                "<strong>Centro centinela del estado Amazonas</strong><br><br>•Hospital Dr. José Gregorio Hernández de Puerto Ayacucho."
+            ]
+        },
+        {"tag":"anzoategui",
+            "patrones":[
+              "centro centinela en anzoategui",
+              "centros centinelas en anzoategui",
+              "centro centinela del estado anzoategui",
+              "centros centinelas del estado anzoategui",
+              "anzoategui"
+            ],
+
+            "respuestas":[
+                "<strong>Centro centinela del estado Anzoátegui</strong><br><br>• Hospital General Dr. Felipe Guevara Rojas de El Tigre.<br><br>• Hospital Dr. Luis Razetti de Barcelona."
+            ]
+        },
+        {"tag":"aragua",
+            "patrones":[
+              "centro centinela en aragua",
+              "centros centinelas en aragua",
+              "centro centinela del estado aragua",
+              "centros centinelas del estado aragua",
+              "aragua"
+            ],
+
+            "respuestas":[
+                "<strong>Centro centinela del estado Aragua</strong><br><br>• Centro de Diagnóstico Integral (CDI) Luchadores por la Salud en Santa Cruz."
+            ]
+        },
+        {"tag":"bolivar",
+            "patrones":[
+              "centro centinela en Bolivar",
+              "centros centinelas en Bolivar",
+              "centro centinela del estado Bolivar",
+              "centros centinelas del estado Bolivar",
+              "Bolivar"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Bolívar</strong><br><br>• Hospital Rosario Vera Zurita en Santa Elena de Uairén.<br><br>• Hospital Dr. Raúl Leoni del IVVS en Ciudad Guayana.<br><br>• Complejo Hospitalario Universitario Ruiz y Páez."
+            ]
+        },
+        {"tag":"barinas",
+            "patrones":[
+              "centro centinela en Barinas",
+              "centros centinelas en Barinas",
+              "centro centinela del estado Barinas",
+              "centros centinelas del estado Barinas",
+              "Barinas"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Barinas</strong><br><br>• Hospital Central de Maracay (Aragua). Hospital Dr. Luis Razetti."
+            ]
+        },
+        {"tag":"carabobo",
+            "patrones":[
+              "centro centinela en Carabobo",
+              "centros centinelas en Carabobo",
+              "centro centinela del estado Carabobo",
+              "centros centinelas del estado Carabobo",
+              "Estado de carabobo",
+              "Carabobo"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Carabobo</strong><br><br>• Ciudad Hospitalaria Dr. Enrique Tejera.<br><br>• Hospital Simón Bolívar de Mariara.<br><br>• Hospital Dr. José Francisco Molina Sierra del IVSS."
+            ]
+        },
+        {"tag":"cogedes",
+            "patrones":[
+              "centro centinela en cogedes",
+              "centros centinelas en cogedes",
+              "centro centinela del estado cogedes",
+              "centros centinelas del estado cogedes",
+              "Estado de cogedes",
+              "cogedes"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Cogedes</strong><br><br>• Hospital General Dr. Egor Nucete en San Carlos."
+            ]
+        },
+        {"tag":"DeltaAmacuro",
+            "patrones":[
+              "centro centinela en Delta Amacuro",
+              "centros centinelas en Delta Amacuro",
+              "centro centinela del Delta Amacuro",
+              "centros centinelas del estado Delta Amacuro",
+              "Estado de Delta Amacuro",
+              "Delta Amacuro"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Delta Amacuro</strong><br><br>• Complejo Hospitalario Dr. Luis Razetti de Tucupita."
+            ]
+        },
+        {"tag":"DistritoCapital",
+            "patrones":[
+              "centro centinela en Distrito Capital",
+              "centros centinelas en Distrito Capital",
+              "centro centinela del Distrito Capital",
+              "centros centinelas del Distrito Capital",
+              "Estado Distrito capital",
+              "Estado Distrito Capital",
+              "Distrito Capital"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del Distrito Capital</strong><br><br>• Hospital General Dr. José Ignacio Baldó de El Algodonal en Antímano.<br><br>• Hospital Dr. Jesús Yerena de Lídice.<br><br>• Hospital Dr. Leopoldo Manrique Terrero de Coche."
+            ]
+        },
+        {"tag":"Guarico",
+            "patrones":[
+              "centro centinela en Guárico",
+              "centros centinelas en Guárico",
+              "centro centinela de Guárico",
+              "centros centinelas de Guárico",
+              "Estado Guárico",
+              "Guárico",
+              "centro centinela en Guarico",
+              "centros centinelas en Guarico",
+              "centro centinela de Guarico",
+              "centros centinelas de Guarico",
+              "Estado Garico",
+              "Guarico"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Guárico</strong><br><br>• Hospital Simón Bolívar de Valle de la Pascua.<br><br>• Hospital Dr. Francisco Urdaneta Delgado de Calabozo.<br><br>• Hospital Dr. Israel Ranuarez Balza de San Juan de Los Morros."
+            ]
+        },
+        {"tag":"LaGuaira",
+            "patrones":[
+              "centro centinela en La Guaira",
+              "centros centinelas La Guaira",
+              "centro centinela de La Guaira",
+              "centros centinelas de La Guaira",
+              "Estado La Guaira",
+              "La Guaira",
+              "centro centinela en La Guaira",
+              "centros centinelas en La Guaira",
+              "centro centinela de La Guaira",
+              "centros centinelas de La Guaira",
+              "Estado La Guaira"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado La Guaira</strong><br><br>• Centro de Diagnóstico Integral (CDI) de Guaracarumbo en Catia La Mar.<br><br>• Hospital Dr. José María Vargas del IVSS en Macuto.<br><br>• Hospital Naval Dr. Raúl Perdomo Hurtado de Pariata."
+            ]
+        },
+        {"tag":"Lara",
+            "patrones":[
+              "centro centinela en Lara",
+              "centros centinelas Lara",
+              "centro centinela de Lara",
+              "centros centinelas de Lara",
+              "Estado Lara",
+              "Lara",
+              "centro centinela en Lara",
+              "centros centinelas en Lara",
+              "centro centinela de Lara",
+              "centros centinelas de Lara"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Lara</strong><br><br>• Centro de Diagnóstico Integral (CDI) de San Jacinto.<br><br>• Hospital General Dr. Armando Velásquez Mago."
+            ]
+        },
+        {"tag":"Medira",
+            "patrones":[
+              "centro centinela en Medira",
+              "centros centinelas Medira",
+              "centro centinela de Medira",
+              "centros centinelas de Medira",
+              "Estado Medira",
+              "Medira",
+              "centro centinela en Medira",
+              "centros centinelas en Medira",
+              "centro centinela de Medira",
+              "centros centinelas de Medira"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Médira </strong><br><br>• Hospital IV de El Vigía.<br><br>• Instituto Autónomo Hospital Universitario de Los Andes."
+            ]
+        },
+        {"tag":"Miranda",
+            "patrones":[
+              "centro centinela en Miranda",
+              "centros centinelas Miranda",
+              "centro centinela de Miranda",
+              "centros centinelas de Miranda",
+              "Estado Miranda",
+              "Miranda",
+              "centro centinela en Miranda",
+              "centros centinelas en Miranda",
+              "centro centinela de Miranda",
+              "centros centinelas de Miranda"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Miranda </strong><br><br>• Hospital Victorino Santaella.<br><br>• Hospital Ana Francisca Pérez de León II.<br><br>• Hospital Domingo Luciani.<br><br>• Hospital General Simón Bolívar.<br><br>• Hospital Dr. Eugenio P.D. Bellard.<br><br>• Hospital General de Higuerote."
+            ]
+        },
+        {"tag":"Monagas",
+            "patrones":[
+              "centro centinela en Monagas",
+              "centros centinelas Monagas",
+              "centro centinela de Monagas",
+              "centros centinelas de Monagas",
+              "Estado Monagas",
+              "Monagas",
+              "centro centinela en Monagas",
+              "centros centinelas en Monagas",
+              "centro centinela de Monagas",
+              "centros centinelas de Monagas"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Monagas</strong><br><br>• Hospital Dr. Manuel Núñez Tovar."
+            ]
+        },
+        {"tag":"NuevaEsparta",
+            "patrones":[
+              "centro centinela en Nueva Esparta",
+              "centros centinelas Nueva Esparta",
+              "centro centinela de Nueva Esparta",
+              "centros centinelas de Nueva Esparta",
+              "Estado Nueva Esparta",
+              "Nueva Esparta",
+              "centro centinela en Nueva Esparta",
+              "centros centinelas en Nueva Esparta",
+              "centro centinela de Nueva Esparta",
+              "centros centinelas de Nueva Esparta"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Nueva Esparta</strong><br><br>• Hospital Dr. Luis Ortega de Porlamar.<br><br>• Centro de Diagnóstico Integral (CDI)."
+            ]
+        },
+        {"tag":"Portuguesa",
+            "patrones":[
+              "centro centinela en Portuguesa",
+              "centros centinelas Portuguesa",
+              "centro centinela de Portuguesa",
+              "centros centinelas de Portuguesa",
+              "Estado Portuguesa",
+              "Portuguesa",
+              "centro centinela en Portuguesa",
+              "centros centinelas en Portuguesa",
+              "centro centinela de Portuguesa",
+              "centros centinelas de Portuguesa"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Portuguesa</strong><br><br>• Hospital Universitario Dr. Jesús María Casal Ramos de Araure.<br><br>• Hospital Dr. Miguel Oraa de Guanare."
+            ]
+        },
+        {"tag":"Sucre",
+            "patrones":[
+              "centro centinela en Sucre",
+              "centros centinelas Sucre",
+              "centro centinela de Sucre",
+              "centros centinelas de Sucre",
+              "Estado Sucre",
+              "Sucre",
+              "centro centinela en Sucre",
+              "centros centinelas en Sucre",
+              "centro centinela de Sucre",
+              "centros centinelas de Sucre"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Sucre</strong><br><br>• Hospital Universitario Antonio Patricio de Alcalá."
+            ]
+        },
+        {"tag":"Tachira",
+            "patrones":[
+              "centro centinela en Táchira",
+              "centros centinelas Táchira",
+              "centro centinela de Táchira",
+              "centros centinelas de Táchira",
+              "Estado Táchira",
+              "Táchira",
+              "centro centinela en Tachira",
+              "centros centinelas en Tachira",
+              "centro centinela de Tachira",
+              "centros centinelas de Tachira",
+              "centro centinela en Tachira",
+              "centros centinelas Tachira",
+              "centro centinela de Tachira",
+              "centros centinelas de Tachira",
+              "Estado Tachira",
+              "Tachira",
+              "centro centinela en Tachira",
+              "centros centinelas en Tachira",
+              "centro centinela de Tachira",
+              "centros centinelas de Tachira"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Táchira </strong><br><br>• Hospital Universitario de San Cristóbal."
+            ]
+        },
+        {"tag":"Trujillo",
+            "patrones":[
+              "centro centinela en Trujillo",
+              "centros centinelas Trujillo",
+              "centro centinela de Trujillo",
+              "centros centinelas de Trujillo",
+              "Estado Trujillo",
+              "Trujillo",
+              "centro centinela en Trujillo",
+              "centros centinelas en Trujillo",
+              "centro centinela de Trujillo",
+              "centros centinelas de Trujillo"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Trujillo</strong><br><br>• Hospital Dr. Pedro Emilio Carrillo de Valera."
+            ]
+        },
+        {"tag":"Yaracuy",
+            "patrones":[
+              "centro centinela en Yaracuy",
+              "centros centinelas Yaracuy",
+              "centro centinela de Yaracuy",
+              "centros centinelas de Yaracuy",
+              "Estado Yaracuy",
+              "Yaracuy",
+              "centro centinela en Yaracuy",
+              "centros centinelas en Yaracuy",
+              "centro centinela de Yaracuy",
+              "centros centinelas de Yaracuy"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Yaracuy</strong><br><br>• Hospital Central Dr. Plácido Daniel Rodríguez Rivero de San Felipe."
+            ]
+        },
+        {"tag":"Zulia",
+            "patrones":[
+              "centro centinela en Zulía",
+              "centros centinelas Zulía",
+              "centro centinela de Zulía",
+              "centros centinelas de Zulía",
+              "Estado Zulía",
+              "Zulía",
+              "centro centinela en Zulía",
+              "centros centinelas en Zulía",
+              "centro centinela de Zulía",
+              "centros centinelas de Zulía",
+              "centro centinela en Zulia",
+              "centros centinelas zulia",
+              "centro centinela de Zulia",
+              "centros centinelas de Zulia",
+              "Estado Zulia",
+              "Zulia",
+              "centro centinela en Zulia",
+              "centros centinelas en Zulia",
+              "centro centinela de Zulia",
+              "centros centinelas de Zulia"
+            ],
+
+            "respuestas":[
+              "<strong>Centro centinela del estado Zulía</strong><br><br>• Hospital Universitario de Maracaibo.<br><br>• Hospital Santa Bárbara."
+            ]
+        },
+        {"tag":"despedida",
+            "patrones":[
+              "adios",
+              "hasta la proxima",
+              "nos vemos"],
+
+            "respuestas":[
+              "Cuidate",
+              "Nos vemos pronto",
+              "Espero verte pronto"]
+    }
+   ]
+}

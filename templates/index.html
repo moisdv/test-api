@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;1,300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/chat.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/typing.css')}}">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/bootstrap.css')}}">
+    <title>Goyobot</title>
+    <style>
+
+      body {
+        font-family: "Varela Round", sans-serif;
+        margin: 10px;
+        padding: 0;
+        background-color:#458CF6;
+        background-size:100% 100%;
+      }
+      .contenedor {
+        display: flex;
+        height: 80vh;
+        align-items: center;
+        justify-content: center;
+        text-align:center;
+      }
+      .texto{
+        text-align:center;
+
+      }
+
+      .logo {
+        margin-left: 200px;
+      }
+
+      .btn-p {
+        background-color: #f9065b;
+        width: 200px;
+        height: 54px;
+        margin-left: 100px;
+        border: 1.5px solid white;
+        border-radius: 10px;
+        transition: 1s ease all;
+      }
+
+      .btn-p:hover {
+        background-color: #e30b56;
+        transition: 1s ease all;
+        color: white;
+      }
+
+      .flecha {
+              position:absolute; right:60px;
+              padding-top: 90px;
+
+        max-width: 100%;
+          height: auto;
+          }
+
+      .boton_personalizado{
+
+      padding: 10px 50px;
+      font-weight: 600;
+      font-size: 20px;
+      color: #ffffff;
+      background-color: #F9065B;
+      border-radius: 6px;
+      margin-right: 50px
+
+    }
+</style>
+
+</head>
+<body>
+  <img src = "{{url_for ('static', filename = './images/cnti_blanco.png')}}" width = "170vw" height = "60vw" align="right">
+  <div class="contenedor">
+
+  <div class="content">
+    <table>
+      <tr>
+        <td>
+          <div class="logo">
+            <img src = "{{url_for ('static', filename = './images/bot1.png')}}" width = "70%" height = "70%">
+          </div>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="texto">
+            <br>
+
+            <a href=""><button type="submit" value="" class="btn btn-primary btn-p"><strong>Conoceme</strong></button></a>
+          </div>
+        </td>
+      </tr>
+    </table>
+<!-- <div class="container" > -->
+<div class="flecha">
+            <img src = "{{url_for ('static', filename = './images/flecha.png')}}" width = "100px" height = "30px">
+              </div>
+      </div>
+
+</div>
+
+    <div class="container">
+        <div class="chatbox">
+            <div class="chatbox__support">
+                <div class="chatbox__header">
+                    <div class="chatbox__content--header">
+                        <h4 class="chatbox__heading--header">Goyobot</h4>
+                    </div>
+                </div>
+                <div class="chatbox__messages">
+                   <!---adentro del chat --->
+                    <div>
+                        <div class="messages__item messages__item--visitor">
+                            Hola, soy Goyobot!
+                        </div>
+                        <div class="col ">
+                          <p class="" id="response"></p>
+                        </div>
+                        <div class="messages__item messages__item--typing">
+                            <span class="messages__dot"></span>
+                            <span class="messages__dot"></span>
+                            <span class="messages__dot"></span>
+                        </div>
+                    </div>
+                </div>
+                <form class="" action="index.html" method="post">
+                  <div class="chatbox__footer ">
+                      <input class="text-left form-control" type="text" name="question" id="question" placeholder="Haz una pregunta...">
+                      <button class="btn btn-primary btn-block d-none" id="submit-button">Pregunta</button>
+                  </div>
+                </form>
+            </div>
+            <div class="chatbox__button">
+                <button>
+                  <img src = "{{url_for ('static', filename = './images/icon.png')}}" >
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="{{url_for('static', filename='js/jquery.min.js')}}"></script>
+    <script src="{{url_for('static', filename='js/Chat.js')}}"></script>
+    <script src="{{url_for('static', filename='js/app.js')}}"></script>
+    <script src="{{url_for('static', filename='js/bootstrap.min.js')}}"></script>
+
+
+    <script>
+
+
+      jQuery(document).ready(function() {
+
+        $("#submit-button").click(function(e) {
+          e.preventDefault();
+
+
+          $.ajax({
+              type: "POST",
+              url: "/chatbot",
+              data: {
+                  question: $("#question").val()
+              },
+              success: function(result) {
+                $("#response").append("<br><strong>Tu:</strong> "+$("#question").val()+ "<br><strong>Goyobot:</strong> "+result.response);
+                $("#question").val("")
+              },
+              error: function(result) {
+                  alert('error');
+              }
+          });
+
+
+
+        });
+
+      });
+
+
+    </script>
+</body>
+</html>
